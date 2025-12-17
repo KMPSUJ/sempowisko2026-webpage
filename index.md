@@ -5,4 +5,13 @@ tags = ["main", "home"]
 +++
 
 
-\duallang{ I will do I it soon. I promise...}{Zrobie jak bede chial.}
+\duallang{
+# When: 23rd - 26th April 2026
+
+## Page Content
+I will do I it soon. I promise...
+}{
+# Kiedy: 23 - 26 April 2026
+
+## Tresc strony
+Zrobie jak bede chial.}
