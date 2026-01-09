@@ -8,7 +8,7 @@ title="Organisers"
 ## Organizing Committee 
 
 * **Dominik Ludwik Piasecki** - 3rd year student of physics
-* **Krzysztof <secondName> Kreiner** - 2nd year student of physics (i think?)
+* **Krzysztof Karol Kreiner** - 2nd year student of physics
 * **Marianna Klara Dekert** - 3rd year student of molecular and cellular biophysics 
 * **Natalia Gajewska** - 2rd year student of molecular and cellular biophysics
 
@@ -32,7 +32,7 @@ title="Organisers"
 ## Komitet główny
 
 * **Dominik Ludwik Piasecki** - student 3 roku fizyki
-* **Krzysztof <secondName> Kreiner** - student 2 roku fizyki (chyba)
+* **Krzysztof Karol Kreiner** - student 2 roku fizyki
 * **Marianna Klara Dekert** - studentka 3 roku biofizyki molekuralnej i komórkowej 
 * **Natalia Gajewska** - studentka 2 roku biofizyki molekuralnej i komórkowej 
 
