@@ -17,7 +17,7 @@ title = "Q&A"
 # Conference fee
 
 * \faq{How much does it cost to attend the conference?}{Well, it's on the main page.}
-* \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is a honest price.}
+* \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is an honest price.}
 * \faq{How do I pay the conference fee?}{ To be announced. Bring some cash with you just in case.}
 * \faq{Are there any additional fees?}{ No.}
 * \faq{Will I receive an invoice for the conference fee?}{ To be announced.}
