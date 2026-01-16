@@ -5,22 +5,25 @@
  * Fully change the colors by just changing those few variables. 
  * */
 
+/* DEBUG COLOR: FF10F0 */
+/* zapisany kolor: #d6c9a9 */
+
 :root {
-  --block-background: #283433;
-  --output-background: #cdcdcd;
+  --block-background: #d2d5d8; /* bloki tekstu i przycisk w lewym dolnym rogu */
+  --output-background: #FF10F0;
   --small: 14px;
   --normal: 19px;
-  --text-color: #f6f2e6;
+  --text-color: #0E1021; /* tekst */
   --sidebar-width: 15.5rem;
   /* more variables to make use later */
-  --background-color: #191f1e;
-  --seconadry-background-color: #1c2524;
-  --links-color: #51a7b1;
-  --contrast-text-color: #319065;
-  --header-text-color: #ddbd88;
+  --background-color: #F6F3EC; /* tło */
+  --seconadry-background-color: #d2d5d8; /* przycisk w prawnym górnym roku i pasek między tym na górze i tłem */
+  --links-color: #325097; /* adresy e-mail i kolor trzech lini na przycisku włączającym sidebar o ile jest on wyłączony */
+  --contrast-text-color: #325097; /* wytłuszczony tekst */
+  --header-text-color: #3F4F6E; /* nagłówki */
 
-  --accent-color: #283433;
-  --less-inpotant-text-color: rgba(255, 255, 255, 0.5);
+  --accent-color: #f0ebdf; /* sidebar i to na górze */
+  --less-inpotant-text-color: #9B9CBF; /* tekst, który celowo ma się nie rzucać w oczy */
 }
 
 /*
