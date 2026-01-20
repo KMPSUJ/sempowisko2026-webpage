@@ -51,8 +51,74 @@ title = "Q&A"
 
 }{
 
-# Pytania i odpowiedzi
+# Najczęściej zadawane pytania
 
-* \faq{Czy żeby znaleźć odpowiedź na swoje pytanie, muszę znać angielski?}{Tak.}
+* \faq{Co należy wpisać w polu *Affiliation (full name)*?}{ W tym polu należy wpisać nazwę instytucji, w której się uczysz. Jeśli jesteś studentem/studentką, wpisz nazwę jednostki prowadzącej Twój tok studiów, np. „Wydział Fizyki, Astronomii i Informatyki Stosowanej, Uniwersytet Jagielloński w Krakowie”. Jeśli uczysz się w liceum, wpisz nazwę swojej szkoły, np. „V Liceum Ogólnokształcące im. Augusta Witkowskiego w Krakowie”.}
+
+* \faq{Co należy wpisać w polu *If you belong to a students’ association, please write its acronym as well as the acronym of your faculty*?}{ Jeśli należysz do organizacji studenckiej, takiej jak Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego, wpisz skrót nazwy koła, np. „KMPSUJ”. Dodatkowo podaj skrót nazwy jednostki, w której studiujesz. W poprzednim przykładzie byłoby to „WFAIS UJ”. Odpowiedź podaj w formacie f"{circle}, {faculty}", np. „KMPSUJ, WFAIS”.}
+
+* \faq{Czym są nauki biologiczne (Biosciences)?}{ Nauki biologiczne to wszystkie dziedziny nauki bezpośrednio związane z biologią, takie jak botanika, biochemia, bioinżynieria, bioinformatyka, medycyna itd. Innymi słowy — nauki o tym, co żyje.}
+
+* \faq{Gdzie mogę zgłosić błąd w rejestracji?}{ Prosimy o kontakt mailowy pod naszym oficjalnym adresem e-mail: \mailsempo.}
+
+* \faq{Kiedy otrzymam maila potwierdzającego rejestrację?}{ Wiadomości potwierdzające powinny dotrzeć w ciągu kilku minut od rejestracji, choć czasami występują problemy techniczne i e-mail może dotrzeć dopiero po około jednym dniu. Jeśli uczestnik nie otrzyma potwierdzenia w ciągu 24 godzin, prosimy o kontakt mailowy pod adresem \mailsempo)}
+
+* \faq{Czym jest licencja CC BY-SA 3.0?}{ Udostępniając abstrakt/opis na tej licencji, umożliwiasz nam wydanie księgi abstraktów i materiałów konferencyjnych na licencji pozwalającej na swobodne kopiowanie przy zachowaniu autorstwa oraz tej samej wolnej licencji. Jednocześnie zmniejsza to problemy związane z prawami autorskimi, ponieważ jako organizacja studencka nie posiadamy osobowości prawnej. Szczegóły można znaleźć pod linkiem [Creative Commons – Attribution-ShareAlike 3.0 Unported – CC BY-SA 3.0 link](https://creativecommons.org/licenses/by-sa/3.0/)
+}
+
+* \faq{Czy mogę zmienić informacje podane podczas rejestracji?}{ Tak, ale trudno to wytłumaczyć. Po prostu daj nam znać, chyba?}
+
+* \faq{Dlaczego w losowych miejscach widzę logo RKN?}{ Rada Kół Naukowych UJ ma nadzieję współfinansować to wydarzenie. W związku z tym jesteśmy zobowiązani umieszczać jej logo na części materiałów konferencyjnych.}
+
+# Opłata konferencyjna
+
+* \faq{Ile kosztuje udział w konferencji?}{ Cóż, jest to podane na stronie głównej.}
+
+* \faq{Czy udział w konferencji online jest płatny?}{ Nie. _Gratis_ to uczciwa cena.}
+
+* \faq{Jak mogę zapłacić opłatę konferencyjną?}{ Zostanie ogłoszone wkrótce. Na wszelki wypadek weź ze sobą trochę gotówki.}
+
+* \faq{Czy są jakieś dodatkowe opłaty?}{ Nie.}
+
+* \faq{Czy otrzymam fakturę za opłatę konferencyjną?}{ Zostanie ogłoszone wkrótce.}
+
+# Udział w konferencji
+
+* \faq{Czy muszę być studentem/doktorantem/pracownikiem UJ?}{ Nie, czynny udział jest otwarty dla wszystkich studentów i doktorantów ze wszystkich uczelni na świecie, a także dla uczniów szkół średnich z całego świata. Grupa ta może również brać udział bierny stacjonarnie, z dostępem do lunchów, gadżetów i przerw kawowych. Ponadto bierny udział w formie online jest dostępny dla wszystkich.}
+
+* \faq{Dlaczego część opisów jest po polsku, a część po angielsku?}{ Naprawdę chciałbym odpowiedzieć na to pytanie, ale nie wiem jak.}
+
+* \faq{Gdzie odbędzie się konferencja?}{ Z kilkoma wyjątkami całe wydarzenie odbędzie się na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ.}
+
+# Prezentacje i postery
+
+* \faq{Czy prezentacja/poster musi być oparta na oryginalnych badaniach?}{ Nie, może mieć również charakter przeglądowy (podsumowujący najnowsze wyniki badań z literatury) lub popularnonaukowy. Należy jednak zachować poprawne cytowanie i korzystanie z cudzych prac (informacje o źródle powinny być zawsze podane: tytuł, autor, rok publikacji, miejsce publikacji, a materiały powinny być używane zgodnie z licencją określoną przez autora).}
+
+* \faq{Jak będzie wyglądać sesja posterowa?}{ Zostanie ogłoszone wkrótce. Prawdopodobnie trzeba będzie gdzieś powiesić poster i czekać, aż ktoś go zobaczy.}
+
+* \faq{Czy można zaprezentować zarówno referat, jak i poster?}{ Taka możliwość będzie, jeśli nie będzie zbyt wielu uczestników. W przypadku dużej liczby zgłoszonych abstraktów ograniczymy liczbę prezentacji do jednej na osobę. Dodatkowo te dwie formy nie mogą zawierać tych samych treści (choć jedna może być kontynuacją drugiej).}
+
+* \faq{Ile osób może prezentować jeden referat?}{ Maksymalnie 3 osoby, jednak wszystkie muszą zarejestrować się osobno z tym samym abstraktem oraz dodać informację w polu „Comments” o prezentacji zespołowej, wraz z listą współautorów.}
+
+* \faq{Ile osób może prezentować jeden poster?}{ Jeden poster może być prezentowany przez jedną osobę.}
+
+* \faq{Kto ponosi koszt druku posteru?}{ Uczestnik jest odpowiedzialny za samodzielne pokrycie kosztów druku oraz przyniesienie posteru na sesję posterową. Organizatorzy przygotują specjalne stojaki na postery.}
+
+* \faq{Czy trzeba uczestniczyć we wszystkich prezentacjach?}{ Oczywiście nie jest to obowiązkowe, ale będzie to niemile widziane, jeśli ktoś pojawi się wyłącznie na własnej prezentacji. Obecność na własnej prezentacji jest obowiązkowa.}
+
+# Certyfikaty, Książka Abstraktów, Publikacje
+
+* \faq{Kiedy będzie dostępna księga abstraktów?}{ Najpóźniej kilka dni przed rozpoczęciem konferencji w formacie PDF. Istnieje duża szansa, że będzie również dostępna w wersji drukowanej.}
+
+* \faq{Czy będzie możliwość napisania rozdziału do publikacji pokonferencyjnej?}{ TBA}
+
+* \faq{Kiedy i gdzie będzie dostępna publikacja pokonferencyjna?}{ Skoro nie mogę jeszcze odpowiedzieć na poprzednie pytanie, to na to również.}
+
+* \faq{Kiedy zostaną wydane certyfikaty?}{ Najpóźniej do końca konferencji (lub później). W razie potrzeby możemy wystawić indywidualne certyfikaty wcześniej (lub później). W takim przypadku prosimy o kontakt mailowy pod adresem \mailsempo. Wszystkie certyfikaty będą wydawane w formie papierowej, aby oszczędzać elektronikę. W wielu przypadkach jest to również ułatwienie dla uczestników, którzy dołączają certyfikaty do wniosków stypendialnych itp.}
+
+# Różne
+
+* \faq{Jaka część tej strony została napisana przy użyciu ChatGPT?}{Trudno powiedzieć. Polska wejsja FAQ została przetłumaczona przy użyciu ChatGPT z wersji angielskiej. Z kolei angielska wersja została skopiowana z FAQ poprzedniej edycji, która została skopiowana z poprzedniej edycji, która została w całości przetłumaczona przez ChatGPT z ówczesnej polskiej wersji.}
+
 }
 
