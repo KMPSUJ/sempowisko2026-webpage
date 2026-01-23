@@ -10,5 +10,19 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <label for="theme-checkbox" class="theme-toggle"></label>
     <label for="lang-checkbox" class="lang-toggle"></label>
+    
+    <script>
+      // Przywróć preferencję dark mode ze storage
+      const themeCheckbox = document.getElementById('theme-checkbox');
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark') {
+        themeCheckbox.checked = true;
+      }
+      
+      // Zapisz preferencję przy zmianie
+      themeCheckbox.addEventListener('change', function() {
+        localStorage.setItem('theme', this.checked ? 'dark' : 'light');
+      });
+    </script>
   </body>
 </html>
