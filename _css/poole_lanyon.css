@@ -25,6 +25,18 @@
   --less-inpotant-text-color: #9B9CBF; /* tekst, który celowo ma się nie rzucać w oczy */
 }
 
+body:has(#theme-checkbox:checked) {
+  --block-background: #1a1f2e; /* bloki tekstu */
+  --text-color: #F6F3EC; /* tekst */
+  --background-color: #0e1020; /* tło */
+  --seconadry-background-color: #1a1f2e; /* przycisk i pasek */
+  --links-color: #7a99d6; /* adresy e-mail i przyciski */
+  --contrast-text-color: #a0c4ff; /* wytłuszczony tekst */
+  --header-text-color: #e8d5c4; /* nagłówki */
+  --accent-color: #191e2c; /* sidebar */
+  --less-inpotant-text-color: #6b6d8f; /* tekst mniej ważny */
+}
+
 /*
  *                        ___
  *                       /\_ \

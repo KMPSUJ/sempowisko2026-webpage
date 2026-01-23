@@ -209,3 +209,68 @@
   padding: 0px;
   margin: 0.px;
 }
+
+/*******************************************************************/
+/* 		Dark/Light Mode Toggle 				   */
+/*******************************************************************/
+
+/* Hide the checkbox that we toggle with `.theme-toggle` */
+.theme-checkbox {
+  display: none;
+}
+
+/* Style the `label` that we use to target the `.theme-checkbox` */
+.theme-toggle {
+  position: fixed;
+  bottom: 3.2rem;
+  left: 0.25rem;
+  display: block;
+  width: 2.2rem;
+  padding: 0.5rem 0.65rem;
+  color: var(--contrast-text-color);
+  background-color: var(--block-background);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.theme-toggle::before {
+  display: block;
+  content: "🌙";
+  width: 100%;
+  padding-bottom: 0.125rem;
+  font-size: 1rem;
+}
+
+@media (min-width: 30.1rem) {
+  .theme-toggle {
+    width: 2.25rem;
+    bottom: 3.8rem;
+    left: 1rem;
+  }
+
+  .theme-toggle::before {
+    padding-bottom: 0.15rem;
+  }
+}
+
+.theme-toggle {
+  -webkit-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.theme-toggle {
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+
+#sidebar-checkbox:checked ~ .theme-toggle {
+  -webkit-transform: translateX(calc(-1 * var(--sidebar-width)));
+  -ms-transform: translateX(calc(-1 * var(--sidebar-width)));
+  transform: translateX(calc(-1 * var(--sidebar-width)));
+}
+
+/* Style the toggle differently when the checkbox is checked */
+#theme-checkbox:checked ~ .theme-toggle::before {
+  content: "☀️";
+}
