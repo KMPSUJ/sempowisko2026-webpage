@@ -173,7 +173,17 @@
   background-color: #808080;
 }
 
+/*
 .contact-block a {
+  color: rgb(232, 230, 227);
+}
+*/
+
+#kontakt-section .contact-block a {
+  color: #3F4F6E;
+}
+
+body:has(#theme-checkbox:checked) #kontakt-section .contact-block a {
   color: rgb(232, 230, 227);
 }
 
@@ -208,6 +218,18 @@
   width: 100%;
   padding: 0px;
   margin: 0.px;
+}
+
+.icon-dark {
+  display: none;
+}
+
+body:has(#theme-checkbox:checked) .icon-light {
+  display: none;
+}
+
+body:has(#theme-checkbox:checked) .icon-dark {
+  display: inline-block;
 }
 
 /*******************************************************************/

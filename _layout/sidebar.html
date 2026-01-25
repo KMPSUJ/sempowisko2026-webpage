@@ -6,19 +6,19 @@
 <div class="sidebar" id="sidebar">
 
   <div class="sidebar-item">
-  <a href="/" class="sidebar-about">
-    <div>
-      <img src="/assets/semp.png" alt="SMP logo" width=100%>
-    </div>
-  </a>
+    <a href="/" class="sidebar-about">
+      <div>
+        <img src="/assets/semp.png" alt="SMP logo" width=100%>
+      </div>
+    </a>
   </div>
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
     <!--
-    <a class="sidebar-nav-item {{ispage invited-speakers/*}}active{{end}}" href="/invited-speakers/">Invited Speakers</a>
-    <a class="sidebar-nav-item {{ispage timetable/*}}active{{end}}" href="/timetable/">Timetable</a>
-  -->
+<a class="sidebar-nav-item {{ispage invited-speakers/*}}active{{end}}" href="/invited-speakers/">Invited Speakers</a>
+<a class="sidebar-nav-item {{ispage timetable/*}}active{{end}}" href="/timetable/">Timetable</a>
+-->
     <a class="sidebar-nav-item {{ispage organizers/*}}active{{end}}" href="/organizers/">Organizers</a>
     <a class="sidebar-nav-item {{ispage FAQ/*}}active{{end}}" href="/FAQ/">Q&A</a>
   </nav>
@@ -26,64 +26,172 @@
     <p>&copy; {{fill author}}.</p>
   </div>
 
-      <!-- Sidebar Contact Section -->
-    <div class="sidebar-item">
+  <!-- Sidebar Contact Section -->
+  <div class="sidebar-item">
     <div class="lang-en">
-    <div class="sidebar-contact">
-      <h4>Contact</h4>
-      <p>JU Faculty of Physics, Astronomy and Applied Computer Science, 11 Łojasiewicza Street, Kraków, Poland<br>
-       Room H-1-03</p>
-      <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
-		<img src="/assets/icons/house-icon-white.svg" class="svg-icon">Faculty's Main Page</a><br>
-      <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
-	      <img src="/assets/icons/mail-icon-white.svg" class="svg-icon">sempowisko2025@gmail.com</a><br>
-      <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/discord-icon-white.svg" class="svg-icon">Discord Server</a><br>
-      <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/facebook-icon-white.svg" class="svg-icon">KMPSUJ Fanpage</a><br>
-      <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/linkedin-icon-white.svg" class="svg-icon">LinkedIn</a><br>
-      <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/github-icon-white.svg" class="svg-icon">GitHub</a><br>
-    </div>
+      <div class="sidebar-contact">
+        <h4>Contact</h4>
+        <p>JU Faculty of Physics, Astronomy and Applied Computer Science, 11 Łojasiewicza Street, Kraków, Poland<br>
+          Room H-1-03</p>
+        <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/icons/house-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Home">
+
+          <img src="/assets/icons/house-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Home">
+
+            Faculty's Main Page
+        </a><br>
+        <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/mail-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Mail">
+
+          <img src="/assets/icons/mail-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Mail">
+
+            kmpsuj@uj.edu.pl
+        </a><br>
+        <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/discord-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Discord">
+
+          <img src="/assets/icons/discord-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Discord">
+
+          Discord Server
+        </a><br>
+        <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/facebook-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="KMPSUJ Fanpage">
+
+          <img src="/assets/icons/facebook-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="KMPSUJ Fanpage">
+
+          KMPSUJ Fanpage
+        </a><br>
+        <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/linkedin-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="LinkedIn">
+
+          <img src="/assets/icons/linkedin-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="LinkedIn">
+
+          LinkedIn
+        </a><br>
+        <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/github-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="GitHub">
+
+          <img src="/assets/icons/github-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="GitHub">
+
+          GitHub
+        </a><br>
+      </div>
     </div><!-- lang-en -->
     <div class="lang-pl">
-    <div class="sidebar-contact">
-      <h4>Kontakt</h4>
-      <p>Wydział Fizyki, Astronomii i Informatyki Stosowanej UJ <br> Pokój H-1-03</p>
-      <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
-      		<img src="/assets/icons/house-icon-white.svg" class="svg-icon">Strona kierunku SMP</a><br>
-      <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/mail-icon-white.svg" class="svg-icon">sempowisko2025@gmail.com</a><br>
-      <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/discord-icon-white.svg" class="svg-icon">Serwer Discord</a><br>
-      <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/facebook-icon-white.svg" class="svg-icon">Fanpage KMPSUJ</a><br>
-      <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/linkedin-icon-white.svg" class="svg-icon">LinkedIn</a><br>
-      <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
-	   	<img src="/assets/icons/github-icon-white.svg" class="svg-icon">GitHub</a><br>
-    </div>
+      <div class="sidebar-contact">
+        <h4>Kontakt</h4>
+        <p>Wydział Fizyki, Astronomii i Informatyki Stosowanej UJ <br> Pokój H-1-03</p>
+        <a href="https://smp.uj.edu.pl/" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/icons/house-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Home">
+
+          <img src="/assets/icons/house-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Home">
+
+          Strona kierunku SMP
+        </a><br>
+        <a href="mailto: kmpsuj@uj.edu.pl" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/mail-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Mail">
+
+          <img src="/assets/icons/mail-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Mail">
+
+            kmpsuj@uj.edu.pl
+        </a><br>
+        <a href="https://discord.gg/zTdm3MA6SE" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/discord-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Discord">
+
+          <img src="/assets/icons/discord-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Discord">
+
+          Serwer Discord
+        </a><br>
+        <a href="https://www.facebook.com/KMPSUJ" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/facebook-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="Fanpage KMPSUJ">
+
+          <img src="/assets/icons/facebook-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="Fanpage KMPSUJ">
+
+          Fanpage KMPSUJ
+        </a><br>
+        <a href="https://www.linkedin.com/company/ko%C5%82o-matematyczno-przyrodnicze-student%C3%B3w-uj" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/linkedin-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="LinkedIn">
+
+          <img src="/assets/icons/linkedin-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="LinkedIn">
+
+          LinkedIn
+        </a><br>
+        <a href="https://github.com/KMPSUJ" target="_blank" rel="noreferrer">
+          <img src="/assets/icons/github-icon-blue.svg"
+            class="svg-icon icon-light"
+            alt="GitHub">
+
+          <img src="/assets/icons/github-icon-white.svg"
+            class="svg-icon icon-dark"
+            alt="GitHub">
+
+          GitHub
+        </a><br>
+      </div>
     </div><!-- lang-pl -->
-    </div><!-- End of Contact Section -->
+  </div><!-- End of Contact Section -->
 
 </div>
 
 <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
 content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
-  <div class="masthead">
-    <div class="container">
-      <h3 class="masthead-title">
-        <a href="/" title="Home">SeMPowisko 2026</a> 
-	  <div class="lang-en">
+<div class="masthead">
+  <div class="container">
+    <h3 class="masthead-title">
+      <a href="/" title="Home">SeMPowisko 2026</a> 
+      <div class="lang-en">
         <small>XXIV Interdisciplinary Math-Science Student Konference</small>
-	  </div>
-	  <div class="lang-pl">
+      </div>
+      <div class="lang-pl">
         <small>XXIV Matematyczno Przyrodnicza Interdyscyplinarna Konferencja Studencka</small>
-	  </div>
-      </h3>
-    </div>
+      </div>
+    </h3>
   </div>
+</div>
 
-  <div class="container content">
+<div class="container content">
