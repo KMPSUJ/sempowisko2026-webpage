@@ -5,20 +5,20 @@ title="Organisers"
 \duallang{
 # Organisers
 
-## Organizing Committee 
+## Organising Committee 
 
 * **Dominik Ludwik Piasecki** - 3rd year student of physics
 * **Krzysztof Karol Kreiner** - 2nd year student of physics
 * **Marianna Klara Dekert** - 3rd year student of molecular and cellular biophysics 
-* **Natalia Gajewska** - 2rd year student of molecular and cellular biophysics
+* **Natalia Gajewska** - 2nd year student of molecular and cellular biophysics
 
-## Technical Coverage 
+## Technical Crew 
 
 * **Bartosz Żbik** - 3rd and 5th year student of mathematics 
 * **Maciej Ziobro** - 3rd year student of physics
 * **Kamil Ireneusz Kazanowski** - 3rd year student of physics
 * **Karol Kasper Orkisz** - 3rd year student of physics
-* **Mateusz Miłosz Winiarski** - 5rd year student of physics
+* **Mateusz Miłosz Winiarski** - 5th year student of physics
 
 ## Graphics and Promotion
 

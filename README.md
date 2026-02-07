@@ -1,2 +1,2 @@
 # sempowisko2026-webpage
-Webpage for XXVI SeMPowisko conference.
+Webpage for XXIV SeMPowisko conference.

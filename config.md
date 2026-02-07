@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
 website_title = "SeMPowisko 2026"
-website_descr = "Webpage for the XXIII International Math-Science conference SeMPowisko 2026"
+website_descr = "Webpage for the XXIV International Math-Science conference SeMPowisko 2026"
 website_url   = "https://sempowisko.com/2026"
 +++
 

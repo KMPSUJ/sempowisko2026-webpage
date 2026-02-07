@@ -24,5 +24,20 @@
         localStorage.setItem('theme', this.checked ? 'dark' : 'light');
       });
     </script>
+    
+    <script>
+      //teraz to samo tyle żaa dla pl/en 
+      // Przywróć preferencję dark mode ze storage
+      const langCheckbox = document.getElementById('lang-checkbox');
+      const savedLang = localStorage.getItem('lang');
+      if (savedLang === 'pl') {
+        langCheckbox.checked = true;
+      }
+      
+      // Zapisz preferencję przy zmianie
+      langCheckbox.addEventListener('change', function() {
+        localStorage.setItem('lang', this.checked ? 'pl' : 'en');
+      });
+    </script>
   </body>
 </html>
