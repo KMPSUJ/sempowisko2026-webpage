@@ -9,7 +9,7 @@ tags = ["main", "home"]
 # \SeMPowisko 2026
 
 \duallang{
-Are you interested in mathematics, physics, chemistry, biology, geography, or computer science? Join us at our student konference: SeMPowisko 2026!
+Are you interested in mathematics, physics, chemistry, biology, geography, or computer science? Join us at our student conference: SeMPowisko 2026!
 
 The 24th edition will take place **April 23rd–26th, 2026** in hybrid form at Jagiellonian University in Kraków and on Microsoft Teams.
 
