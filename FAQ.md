@@ -55,7 +55,7 @@ title = "Q&A"
 
 * \faq{Co należy wpisać w polu *Affiliation (full name)*?}{ W tym polu należy wpisać nazwę instytucji, w której się uczysz. Jeśli jesteś studentem/studentką, wpisz nazwę jednostki prowadzącej Twój tok studiów, np. „Wydział Fizyki, Astronomii i Informatyki Stosowanej, Uniwersytet Jagielloński w Krakowie”. Jeśli uczysz się w liceum, wpisz nazwę swojej szkoły, np. „V Liceum Ogólnokształcące im. Augusta Witkowskiego w Krakowie”.}
 
-* \faq{Co należy wpisać w polu *If you belong to a students’ association, please write its acronym as well as the acronym of your faculty*?}{ Jeśli należysz do organizacji studenckiej, takiej jak Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego, wpisz skrót nazwy koła, np. „KMPSUJ”. Dodatkowo podaj skrót nazwy jednostki, w której studiujesz. W poprzednim przykładzie byłoby to „WFAIS UJ”. Odpowiedź podaj w formacie [https://www.geeksforgeeks.org/python/formatted-string-literals-f-strings-python/](f"{circle}, {faculty}"), np. „KMPSUJ, WFAIS”.}
+* \faq{Co należy wpisać w polu *If you belong to a students’ association, please write its acronym as well as the acronym of your faculty*?}{ Jeśli należysz do organizacji studenckiej, takiej jak Koło Matematyczno-Przyrodnicze Studentów Uniwersytetu Jagiellońskiego, wpisz skrót nazwy koła, np. „KMPSUJ”. Dodatkowo podaj skrót nazwy jednostki, w której studiujesz. W poprzednim przykładzie byłoby to „WFAIS UJ”. Odpowiedź podaj w formacie [f"{circle}, {faculty}"](https://www.geeksforgeeks.org/python/formatted-string-literals-f-strings-python/), np. „KMPSUJ, WFAIS”.}
 
 * \faq{Czym są nauki biologiczne (Biosciences)?}{ Nauki biologiczne to wszystkie dziedziny nauki bezpośrednio związane z biologią, takie jak botanika, biochemia, bioinżynieria, bioinformatyka, medycyna itd. Innymi słowy — nauki o tym, co żyje.}
 
@@ -104,7 +104,7 @@ title = "Q&A"
 
 * \faq{Kto ponosi koszt druku posteru?}{ Uczestnik jest odpowiedzialny za samodzielne pokrycie kosztów druku oraz przyniesienie posteru na sesję posterową. Organizatorzy przygotują specjalne stojaki na postery.}
 
-* \faq{Czy trzeba uczestniczyć we wszystkich prezentacjach?}{ Oczywiście nie jest to obowiązkowe, gorąco do tego zachęcamy. Obecność na własnej prezentacji jest obowiązkowa.}
+* \faq{Czy trzeba uczestniczyć we wszystkich prezentacjach?}{ Oczywiście nie jest to obowiązkowe, ale gorąco do tego zachęcamy. Obecność na własnej prezentacji jest obowiązkowa.}
 
 # Certyfikaty, Książka Abstraktów, Publikacje
 
