@@ -13,25 +13,25 @@
   --text-color: #0E1021; /* tekst */
   --sidebar-width: 15.5rem;
   --background-color: #F6F3EC; /* tło */
-  --seconadry-background-color: #e6ddc9; /* przyciski i pasek między tym na górze i tłem */
+  --secondary-background-color: #e6ddc9; /* przyciski i pasek między tym na górze i tłem */
   --links-color: #325097; /* adresy e-mail */
   --contrast-text-color: #325097; /* wytłuszczony tekst */
   --header-text-color: #3F4F6E; /* nagłówki */
 
   --accent-color: #f0ebdf; /* sidebar i to na górze */
-  --less-inpotant-text-color: #9B9CBF; /* mniej ważny tekst */
+  --less-important-text-color: #9B9CBF; /* mniej ważny tekst */
 }
 
 body:has(#theme-checkbox:checked) {
   --block-background: #1a1f2e; /* bloki tekstu */
   --text-color: #F6F3EC; /* tekst */
   --background-color: #0e1020; /* tło */
-  --seconadry-background-color: #232836; /* przycisk i pasek */
+  --secondary-background-color: #232836; /* przycisk i pasek */
   --links-color: #7a99d6; /* adresy e-mail */
   --contrast-text-color: #a0c4ff; /* wytłuszczony tekst */
   --header-text-color: #e8d5c4; /* nagłówki */
   --accent-color: #191e2c; /* sidebar */
-  --less-inpotant-text-color: #6b6d8f; /* mniej ważny tekst */
+  --less-important-text-color: #6b6d8f; /* mniej ważny tekst */
 }
 
 /*
@@ -248,7 +248,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid var(--seconadry-background-color);
+  border-bottom: 1px solid var(--secondary-background-color);
   background-color: var(--accent-color);
 }
 
@@ -309,7 +309,7 @@ tbody tr:nth-child(odd) th {
 
 .page-foot {
   font-family: "Computer Modern Sans", Arial, sans-serif;
-  color: var(--less-inpotant-text-color);
+  color: var(--less-important-text-color);
 }
 
 /*
@@ -360,7 +360,7 @@ tbody tr:nth-child(odd) th {
   overflow-y: auto;
   font-family: "Computer Modern Serif", Times, serif;
   font-size: var(--small);
-  color: var(--less-inpotant-text-color);
+  color: var(--less-important-text-color);
   background-color: var(--accent-color);
   -webkit-transition: all 0.3s ease-in-out;
   transition: transform 0.3s ease-in-out;
@@ -454,7 +454,7 @@ a.sidebar-nav-iner-item:focus {
   width: 2.2rem;
   padding: 0.5rem 0.65rem;
   color: var(--links-color);
-  background-color: var(--seconadry-background-color);
+  background-color: var(--secondary-background-color);
   border-radius: 4px;
   cursor: pointer;
 }
@@ -475,7 +475,7 @@ a.sidebar-nav-iner-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: var(--seconadry-background-color);
+  background-color: var(--secondary-background-color);
 }
 
 @media (min-width: 30.1rem) {
