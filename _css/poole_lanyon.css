@@ -5,36 +5,33 @@
  * Fully change the colors by just changing those few variables. 
  * */
 
-/* DEBUG COLOR: FF10F0 */
-
 :root {
-  --block-background: #c7ccd8; /* bloki tekstu i przycisk w lewym dolnym rogu */
+  --block-background: #c7ccd8; /* bloki tekstu */
   --output-background: #FF10F0; /* to chyba nic nie robi */
   --small: 14px;
   --normal: 19px;
   --text-color: #0E1021; /* tekst */
   --sidebar-width: 15.5rem;
-  /* more variables to make use later */
   --background-color: #F6F3EC; /* tło */
-  --seconadry-background-color: #e6ddc9; /* przycisk w prawnym górnym roku i pasek między tym na górze i tłem */
-  --links-color: #325097; /* adresy e-mail i kolor trzech lini na przycisku włączającym sidebar o ile jest on wyłączony */
+  --seconadry-background-color: #e6ddc9; /* przyciski i pasek między tym na górze i tłem */
+  --links-color: #325097; /* adresy e-mail */
   --contrast-text-color: #325097; /* wytłuszczony tekst */
   --header-text-color: #3F4F6E; /* nagłówki */
 
   --accent-color: #f0ebdf; /* sidebar i to na górze */
-  --less-inpotant-text-color: #9B9CBF; /* tekst, który celowo ma się nie rzucać w oczy */
+  --less-inpotant-text-color: #9B9CBF; /* mniej ważny tekst */
 }
 
 body:has(#theme-checkbox:checked) {
   --block-background: #1a1f2e; /* bloki tekstu */
   --text-color: #F6F3EC; /* tekst */
   --background-color: #0e1020; /* tło */
-  --seconadry-background-color: #1a1f2e; /* przycisk i pasek */
-  --links-color: #7a99d6; /* adresy e-mail i przyciski */
+  --seconadry-background-color: #232836; /* przycisk i pasek */
+  --links-color: #7a99d6; /* adresy e-mail */
   --contrast-text-color: #a0c4ff; /* wytłuszczony tekst */
   --header-text-color: #e8d5c4; /* nagłówki */
   --accent-color: #191e2c; /* sidebar */
-  --less-inpotant-text-color: #6b6d8f; /* tekst mniej ważny */
+  --less-inpotant-text-color: #6b6d8f; /* mniej ważny tekst */
 }
 
 /*
@@ -366,7 +363,7 @@ tbody tr:nth-child(odd) th {
   color: var(--less-inpotant-text-color);
   background-color: var(--accent-color);
   -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 
 @media (min-width: 40rem) {
@@ -478,7 +475,6 @@ a.sidebar-nav-iner-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: var(--less-inpotant-text-color);
   background-color: var(--seconadry-background-color);
 }
 
@@ -530,8 +526,6 @@ a.sidebar-nav-iner-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(var(--sidebar-width));
-  -ms-transform: translateX(var(--sidebar-width));
   transform: translateX(var(--sidebar-width));
 }
 

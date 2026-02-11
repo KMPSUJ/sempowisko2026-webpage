@@ -63,7 +63,7 @@
   width: 2.2rem;
   padding: 0.5rem 0.65rem;
   color: var(--contrast-text-color);
-  background-color: var(--block-background);
+  background-color: var(--seconadry-background-color);
   border-radius: 4px;
   cursor: pointer;
 }
@@ -250,7 +250,7 @@ body:has(#theme-checkbox:checked) .icon-dark {
   width: 2.2rem;
   padding: 0.5rem 0.65rem;
   color: var(--contrast-text-color);
-  background-color: var(--block-background);
+  background-color: var(--seconadry-background-color);
   border-radius: 4px;
   cursor: pointer;
 }
@@ -287,9 +287,7 @@ body:has(#theme-checkbox:checked) .icon-dark {
 }
 
 #sidebar-checkbox:checked ~ .theme-toggle {
-  -webkit-transform: translateX(calc(-1 * var(--sidebar-width)));
-  -ms-transform: translateX(calc(-1 * var(--sidebar-width)));
-  transform: translateX(calc(-1 * var(--sidebar-width)));
+  transform: translateX(var(--sidebar-width));
 }
 
 /* Style the toggle differently when the checkbox is checked */
