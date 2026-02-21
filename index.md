@@ -25,6 +25,32 @@ XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – sta
 }
 
 \duallang{
+## Registration
+
+**The Registration is Open!**
+
+[Click here for registeration](https://register.sempowisko.com) -- registration for both active and pasive participants.
+
+After submiting your form you will be sent a confirmation email. Please check the data you entered -- they will be written in book of abstracts and on certificates. In case of any errors contact us immediately.
+
+Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
+
+}{
+## Rejestracja
+
+**Rejestracja jest otwarta!**
+
+[Link do rejestracji](https://register.sempowisko.com) -- rejestracja zarówno dla uczestników czynnych i biernych.
+
+Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia. Prosimy o szczegółowe sprawdzenie danych, które zostały wprowadzone – dokładnie w takiej formie znajdą się one w książce abstraktów oraz na zaświadczeniach. W przypadku odnalezienia błędów prosimy o niezwłoczny kontakt.
+
+Po zamknięciu rejestracji i sprawdzeniu wszystkich zgłoszeń pod względem merytorycznym skontaktujemy się z Uczestnikami w celu potwierdzenia przyjęcia referatu/plakatu na konferencję.
+
+Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwierdzenie przybycia. Tylko osoby, które potwierdzą swoją obecność oraz uiszczą opłatę konferencyjną w wysokości 30 zł będą zarejestrowane (Osoby uczestniczące w formie zdalnej, uczestniczą za darmo).
+}
+
+
+\duallang{
 ## Page Content
 Soon...
 }{
