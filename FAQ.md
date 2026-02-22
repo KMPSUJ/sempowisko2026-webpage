@@ -35,7 +35,7 @@ title = "Q&A"
 * \faq{Can both a presentation and a poster be presented?}{There will be such a possibility if there are not too many participants, and then the presentation and the project will have to contain different information (continuation of a topic is allowed). However, in the case of a large number of abstracts submitted, we will limit participants to either a presentation or a poster.}
 * \faq{How many people can present one presentation?}{ A maximum of 3 people, but all must register separately with the same abstract and a note in the “Comments” field about the joint presentation, where the names of co-authors will be listed.}
 * \faq{How many people can present one poster?}{ One poster can be presented by one person.}
-* \faq{Who bears the cost of printing the poster?}{ The participant is responsible for independently paying for the printing and bringing the poster to the poster session. The organizers will prepare special racks for posters.}
+* \faq{Who bears the cost of printing the poster?}{ The participant is responsible for independently paying for the printing and bringing the poster to the poster session. The organisers will prepare special racks for posters.}
 * \faq{Do you have to attend all presentations?}{It is not mandatory to do so, but we would highly appreciate it if you did. Attending your own presentation is obligatory.}
 
 # Certificates, Book of Abstracts, Publication
