@@ -12,7 +12,7 @@ title = "Q&A"
 * \faq{When will I receive a confirmation email for my registration?}{ Confirmation emails should arrive within a few minutes of registering, although sometimes we have technical difficulties and the email may arrive after about a day. If the participant does not receive a confirmation email within 24 hours, please contact us by email at \mailsempo.}
 * \faq{What is the CC BY-SA 3.0 license?}{By sharing the abstract/description under this license, we will be able to release our abstract book and conference proceedings under a license that allows for free copying while requiring attribution and maintaining the free license. At the same time, this reduces our problems with copyright, as a student organisation we do not have a legal personality. Details can be found at the [Creative Commons – Attribution-ShareAlike 3.0 Unported – CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).}
 * \faq{Can I change the information I provided in the registration?}{In such a case please contact via email at \mailsempo.}
-* \faq{Why I see RKN's logo in random places?}{ The JU Council of Scientific Circles will hopefully be co-financing this event. Therefore, we are obliged to put their logo on some conference materials.}
+
 
 # Conference fee
 
@@ -24,9 +24,11 @@ title = "Q&A"
 
 # Participation in the conference
  
-* \faq{Do I need to be a student/Ph.D. student/employee of JU?}{ No, active participation is open to all students and PhD students from all universities worldwide, as well as high school students from around the world. This group can also participate passively in-person, with access to lunches, merchandise, and coffee breaks. Moreover, passive participation in the online form is available to everyone.}
+* \faq{Do I need to be a student/Ph.D. student/employee of JU?}{ No, active participation is open to all students and PhD students from all universities worldwide, as well as high school students from around the world. This group can also participate passively in-person, with access to merchandise, and - subject to organisational confirmation - coffee breaks. Moreover, passive participation in the online form is available to everyone.}
 <!--* \faq{Why are some descriptions in Polish and some in English?}{ I would really like to answer this question, ale nie wiem jak.}-->
 * \faq{Where will the conference take place?}{With multiple exceptions, the entire event will take place at the Faculty of Physics, Astronomy, and Applied Computer Science at JU.}
+* \faq{Will food be provided during the event?}{Lunch will most likely be provided. Final confirmation will be shared closer to the event date.}
+* \faq{Will accommodation be provided by the organiser?}{The organiser does not provide accommodation. Participants are kindly asked to arrange their own lodging.} 
 
 # Presentations and Posters
  
@@ -68,8 +70,6 @@ title = "Q&A"
 
 * \faq{Czy mogę zmienić informacje podane podczas rejestracji?}{W takim przypadku prosimy o kontakt mailowy pod adresem \mailsempo.}
 
-* \faq{Dlaczego w losowych miejscach widzę logo RKN?}{ Rada Kół Naukowych UJ ma nadzieję współfinansować to wydarzenie. W związku z tym jesteśmy zobowiązani umieszczać jej logo na części materiałów konferencyjnych.}
-
 # Opłata konferencyjna
 
 * \faq{Ile kosztuje udział w konferencji?}{TBA}
@@ -84,11 +84,15 @@ title = "Q&A"
 
 # Udział w konferencji
 
-* \faq{Czy muszę być studentem/doktorantem/pracownikiem UJ?}{ Nie, czynny udział jest otwarty dla wszystkich studentów i doktorantów ze wszystkich uczelni na świecie, a także dla uczniów szkół średnich z całego świata. Grupa ta może również brać udział bierny stacjonarnie, z dostępem do lunchów, gadżetów i przerw kawowych. Ponadto bierny udział w formie online jest dostępny dla wszystkich.}
+* \faq{Czy muszę być studentem/doktorantem/pracownikiem UJ?}{ Nie, czynny udział jest otwarty dla wszystkich studentów i doktorantów ze wszystkich uczelni na świecie, a także dla uczniów szkół średnich z całego świata. Grupa ta może również brać udział bierny stacjonarnie, z dostępem do gadżetów oraz - po potwierdzeniu organizacyjnym - lunchu i przerw kawowych. Ponadto bierny udział w formie online jest dostępny dla wszystkich.}
 
 <!--* \faq{Dlaczego część opisów jest po polsku, a część po angielsku?}{ Naprawdę chciałbym odpowiedzieć na to pytanie, ale nie wiem jak.}-->
 
 * \faq{Gdzie odbędzie się konferencja?}{ Z kilkoma wyjątkami całe wydarzenie odbędzie się na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UJ.}
+
+* \faq{Czy podczas wydarzenia będzie zapewnione jedzenie?}{Najprawdopodobniej uczestnikom zostanie zapewniony obiad. Ostateczne potwierdzenie przekażemy bliżej terminu wydarzenia.}
+
+* \faq{Czy w ramach konferencji zapewniony jest nocleg?}{Nie zapewniamy noclegu. Prosimy o samodzielne zorganizowanie zakwaterowania.}
 
 # Prezentacje i postery
 
