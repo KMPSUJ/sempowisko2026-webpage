@@ -24,7 +24,7 @@ title = "Q&A"
 
 # Participation in the conference
  
-* \faq{Do I need to be a student/Ph.D. student/employee of JU?}{ No, active participation is open to all students and PhD students from all universities worldwide, as well as high school students from around the world. This group can also participate passively in-person, with access to merchandise, and - subject to organisational confirmation - coffee breaks. Moreover, passive participation in the online form is available to everyone.}
+* \faq{Do I need to be a student/Ph.D. student/employee of JU?}{ No, active participation is open to all students and PhD students from all universities worldwide, as well as high school students from around the world. This group can also participate passively in-person, with access to merchandise, and - subject to organisational confirmation - lunch and coffee breaks. Moreover, passive participation in the online form is available to everyone.}
 <!--* \faq{Why are some descriptions in Polish and some in English?}{ I would really like to answer this question, ale nie wiem jak.}-->
 * \faq{Where will the conference take place?}{With multiple exceptions, the entire event will take place at the Faculty of Physics, Astronomy, and Applied Computer Science at JU.}
 * \faq{Will food be provided during the event?}{Lunch will most likely be provided. Final confirmation will be shared closer to the event date.}
