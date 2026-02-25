@@ -49,7 +49,7 @@ title = "Q&A"
 
 # Miscellaneous
 
-* \faq{What is the origin of name SeMPowisko?}{ Our association represents students of the Studies in the Mathematics and Natural Sciences programme (Polish: Studia matematyczno-przyrodnicze, abbreviated as SMP). The abbreviation resembles the Polish word for “vulture” (sęp [sɛ̃mp]), which inspired our association’s mascot. The name SeMPowisko is a neologism combining a non-standard spelling of "sęp" with the Polish suffix "-owisko", typically used to form place names.}
+* \faq{What is the origin of name SeMPowisko?}{ Our association represents students of the Studies in the Mathematics and Natural Sciences programme (Polish: Studia Matematyczno-Przyrodnicze, abbreviated as SMP). The abbreviation resembles the Polish word for “vulture” (sęp [sɛ̃mp]), which inspired our association’s mascot. The name SeMPowisko is a neologism combining a non-standard spelling of "sęp" with the Polish suffix "-owisko", typically used to form place names.}
 <!--* \faq{How much of this page was written using ChatGPT?}{ It's hard to say. I mostly copied the FAQ from previous edition, which was copied form the previous edition, which was written entirely with ChatGPT.}-->
 
 }{
@@ -123,7 +123,7 @@ title = "Q&A"
 
 # Różne
 
-* \faq{Skąd się wzięła nazwa SeMPowisko?}{ Nasze koło zrzesza osoby studiujące na kierunku Studia Matematyczno-przyrodnicze, nazwa skracana często do SMP. Akronim jest podobny do słowa "sęp", który to jest maskotką koła. Nazwa SeMPowisko pochodzi od niestandardowego zapisu słowa "sęp" oraz formantu "-owisko", który jest wykorzystywany do tworzenia nazwy miejsc.}
+* \faq{Skąd się wzięła nazwa SeMPowisko?}{ Nasze koło zrzesza osoby studiujące na kierunku Studia Matematyczno-Przyrodnicze, nazwa skracana często do SMP. Akronim jest podobny do słowa "sęp", który to jest maskotką koła. Nazwa SeMPowisko pochodzi od niestandardowego zapisu słowa "sęp" oraz formantu "-owisko", który jest wykorzystywany do tworzenia nazwy miejsc.}
 <!--* \faq{Jaka część tej strony została napisana przez ChatGPT}{ Trudno powiedzieć. Duża.}-->
 
 
