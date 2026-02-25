@@ -25,6 +25,8 @@ title="Organisers"
 * **Anastasiya Yushchuk** - 4th year student of advanced materials and nanotechnology
 * **Gabriela Maria Kowacz** - 4th year student of advanced materials and nanotechnology
 * **Daria Stocka** - 2nd year student of chemistry and 1st year student of law
+* **Maria Katarzyna Majerz-Maniecka** - 1st year student of astronomy
+* **Bartłomiej Jan Miłkoś** - 1st year student of biotechnology
 
 }{
 # Organizatorzy
@@ -49,5 +51,7 @@ title="Organisers"
 * **Anastasiya Yushchuk** - studentka 4 roku zaawansowanych materiałów i nanotechnologii
 * **Gabriela Maria Kowacz** - studentka 4 roku zaawansowanych materiałów i nanotechnologii
 * **Daria Stocka** - studentka 2 roku chemii i 1 roku prawa
+* **Maria Katarzyna Majerz-Maniecka** - studentka 1 roku astronomii
+* **Bartłomiej Jan Miłkoś** - student 1 roku biotechnologii
 
 }
