@@ -89,6 +89,27 @@
   }
 }
 
+@media (min-width: 1200px) { /* TODO could use further adjustments */
+  
+  .event-descrb {
+            display: grid;
+	    grid-template-columns: 3fr 2fr;
+        }
+
+	.event-descrb .event-descrb-text {
+		padding: 1rem;
+	}
+
+	.event-descrb .fig p {
+		text-align: right;
+	}
+
+	.event-descrb .fig img {
+		margin: auto;
+		width: 100%;
+	}
+}
+
 .lang-toggle {
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
