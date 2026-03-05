@@ -32,7 +32,6 @@ Jest liderem polskiej misji kosmicznej HYADES 🚀  (HYdrogen And DEuterium Surv
 
 To właśnie ten projekt przybliży w swoim wystąpieniu na SeMPowisku — nie możemy się doczekać! 👾
 }
-
         @@
         @@fig
 \fig{/assets/speakers/michal_drahus}
@@ -40,7 +39,6 @@ To właśnie ten projekt przybliży w swoim wystąpieniu na SeMPowisku — nie m
     @@
 <!-- @@ -->
 ## Prof. Mariusz Gagoś
-
     @@event-descrb
         @@event-descrb-text
 \duallang{
@@ -64,7 +62,6 @@ W ramach realizowania swojej pasji zajmuje się hodowlą pszczół. 🐝
 
 🏵 Zachęcamy do zapoznania się bliżej z badaniami prof. Gagosia [tutaj](https://www.umcs.pl/pl/addres-book-employee,724,pl.html).
 }
-
         @@
         @@fig
 \fig{/assets/speakers/mariusz_gagos}
@@ -72,7 +69,6 @@ W ramach realizowania swojej pasji zajmuje się hodowlą pszczół. 🐝
     @@
 
 ## Prof. Bartłomiej Rzonca 
-
     @@event-descrb
         @@event-descrb-text
 \duallang{
