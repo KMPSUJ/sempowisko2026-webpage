@@ -16,7 +16,7 @@ title = "Q&A"
 
 # Conference fee
 
-* \faq{How much does it cost to attend the conference?}{TBA}
+* \faq{How much does it cost to attend the conference?}{The conference fee is 30 PLN.}
 * \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is an honest price.}
 * \faq{How do I pay the conference fee?}{ To be announced. Bring some cash with you just in case.}
 * \faq{Are there any additional fees?}{ No.}
@@ -73,7 +73,7 @@ title = "Q&A"
 
 # Opłata konferencyjna
 
-* \faq{Ile kosztuje udział w konferencji?}{TBA}
+* \faq{Ile kosztuje udział w konferencji?}{Opłata konferencyjna wynosi 30 zł.}
 
 * \faq{Czy udział w konferencji online jest płatny?}{ Nie. _Gratis_ to uczciwa cena.}
 
