@@ -38,6 +38,18 @@ Add here global latex commands to use throughout your pages.
 @@
 @@
 }
+\newcommand{\dualcolor}[2]{
+@@multicolor
+@@icon-dark
+#1
+@@
+
+@@icon-light
+#2
+@@
+
+@@
+}
 
 \newcommand{\faq}[2]{~~~
 <strong>
