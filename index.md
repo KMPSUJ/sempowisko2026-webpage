@@ -29,7 +29,7 @@ XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – sta
 
 **The Registration is Open!**
 
-[Click here for registeration](https://register.sempowisko.com) -- registration for both active and pasive participants.
+[Click here for registeration](https://register.sempowisko.com) -- registration for both active and passive participants.
 
 After submiting your form you will be sent a confirmation email. Please check the data you entered -- they will be written in book of abstracts and on certificates. In case of any errors contact us immediately.
 
