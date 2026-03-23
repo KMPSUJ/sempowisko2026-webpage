@@ -27,9 +27,9 @@ XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – sta
 \duallang{
 ## Registration
 
-**The Registration is Open!**
+**The Registration is open until April 10th!**
 
-[Click here for registeration](https://register.sempowisko.com) -- registration for both active and passive participants.
+[Click here to register](https://register.sempowisko.com) -- registration for both active and passive participants.
 
 After submiting your form you will be sent a confirmation email. Please check the data you entered -- they will be written in book of abstracts and on certificates. In case of any errors contact us immediately.
 
@@ -38,7 +38,7 @@ Stationary participation in the rest of SeMPowisko conference may come with a 30
 }{
 ## Rejestracja
 
-**Rejestracja jest otwarta!**
+**Rejestracja jest otwarta do 10 kwietnia!**
 
 [Link do rejestracji](https://register.sempowisko.com) -- rejestracja zarówno dla uczestników czynnych i biernych.
 
