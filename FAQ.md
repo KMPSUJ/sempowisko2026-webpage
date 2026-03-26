@@ -18,7 +18,7 @@ title = "Q&A"
 
 * \faq{How much does it cost to attend the conference?}{The conference fee is 30 PLN.}
 * \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is an honest price.}
-* \faq{How do I pay the conference fee?}{ To be announced. Bring some cash with you just in case.}
+* \faq{How do I pay the conference fee?}{ In cash on site.}
 * \faq{Are there any additional fees?}{ No.}
 * \faq{Will I receive an invoice for the conference fee?}{ To be announced.}
 
@@ -43,8 +43,6 @@ title = "Q&A"
 # Certificates, Book of Abstracts, Publication
  
 * \faq{When will the book of abstracts be available?}{ At the latest, a few days before the conference begins as a PDF. There is a high possibility that it will be also given in printed form.}
-* \faq{Can a chapter be written for the post-conference publication?}{ TBA}
-* \faq{When and where will the post-conference publication be available?}{ TBA}
 * \faq{When will the certificates be issued?}{ By the end of conference at the latest (or later). If necessary, we can issue individual certificates earlier (or later). In such a situation, please inform us by email at \mailsempo. All certificates will be issued in paper to save electronics. In many cases, this is also a facilitation for participants who will attach these certificates to scholarship applications, etc.}
 
 # Miscellaneous
@@ -77,7 +75,7 @@ title = "Q&A"
 
 * \faq{Czy udział w konferencji online jest płatny?}{ Nie. _Gratis_ to uczciwa cena.}
 
-* \faq{Jak mogę zapłacić opłatę konferencyjną?}{ Zostanie ogłoszone wkrótce. Na wszelki wypadek weź ze sobą trochę gotówki.}
+* \faq{Jak mogę zapłacić opłatę konferencyjną?}{ Gotówką na miejscu.}
 
 * \faq{Czy są jakieś dodatkowe opłaty?}{ Nie.}
 
@@ -114,10 +112,6 @@ title = "Q&A"
 # Certyfikaty, Książka Abstraktów, Publikacje
 
 * \faq{Kiedy będzie dostępna księga abstraktów?}{ Najpóźniej kilka dni przed rozpoczęciem konferencji w formacie PDF. Istnieje duża szansa, że będzie również dostępna w wersji drukowanej.}
-
-* \faq{Czy będzie możliwość napisania rozdziału do publikacji pokonferencyjnej?}{ TBA}
-
-* \faq{Kiedy i gdzie będzie dostępna publikacja pokonferencyjna?}{TBA}
 
 * \faq{Kiedy zostaną wydane certyfikaty?}{ Najpóźniej do końca konferencji (lub później). W razie potrzeby możemy wystawić indywidualne certyfikaty wcześniej (lub później). W takim przypadku prosimy o kontakt mailowy pod adresem \mailsempo. Wszystkie certyfikaty będą wydawane w formie papierowej, aby oszczędzać elektronikę. W wielu przypadkach jest to również ułatwienie dla uczestników, którzy dołączają certyfikaty do wniosków stypendialnych itp.}
 
