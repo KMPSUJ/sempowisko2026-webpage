@@ -10,15 +10,15 @@ No one is partnering us, at the moment. Do you want to partner us?}{
 Nikt nam nie partneruje, na dzień dzisiejszy. Czy chcesz nam partnerować?
 }
 
-## \duallang{Honorary Patronage of the Rector of Jagiellonian University}{Honorowy Patronat Rektora Uniwersytetu Jagiellońskiego}
+## \duallang{Patrons}{Patroni}
+
+### \duallang{Honorary Patronage of the Rector of Jagiellonian University}{Honorowy Patronat Rektora Uniwersytetu Jagiellońskiego}
 
 \dualcolor{
 \fig{/assets/partners/uj-white.svg}
 }{
 \fig{/assets/partners/uj-blue.svg}
 }
-
-## \duallang{Patrons}{Patroni}
 
 ### \duallang{SOLARIS National Synchrotron Radiation Centre}{Narodowe Centrum Promieniowania Synchrotronowego SOLARIS}
 

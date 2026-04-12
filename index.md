@@ -56,9 +56,11 @@ We invite all the students to give a speech. This year you can choose between a 
 
 Your presentation should fulfill the following conditions:
 
-Be in English. The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 20 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
-In the registration form, you should provide information about the title of your presentation and short abstract (300-1200 characters). Two main bibliography positions will be a nice addition, please post them in the “comments” field.
-Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too large. 
+1. Be in English. 
+2. The presentation should last for a maximum of 10 minutes (ES)/ 15 minutes (QS)/ 20 minutes (LS). At the end of your talk, we will provide 4 minutes (ES)/ 7 minutes (QS, LS) for questions.
+3. In the registration form, you should provide information about the title of your presentation and short abstract (300-1200 characters). Two main bibliography positions will be a nice addition, please post them in the “comments” field.
+4. Organisers reserve the right to reject your application if we will consider it to be unscientific or not popularising science. We might also reject your presentation if the number of participants will be too large. 
+
 We will inform you via email about the acceptance of your abstract once the registration close.
 
 }{
@@ -75,6 +77,22 @@ Referaty powinny spełniać kilka warunków:
 5. Być wygłoszonym w języku angielskim.
 
 O przyjęciu referatu poinformujemy mailowo po zakończeniu rejestracji.
+}
+
+\duallang{
+## Presentation evaluation
+
+Our event is all about bringing fields together and helping young researchers develop the skills to communicate their work — even to colleagues a couple of specialized fields over. To reflect this, presentations and posters will be evaluated by PhD students from a variety of disciplines. In addition to research quality, they will assess how clearly and effectively key ideas are communicated to a broader STEM audience. We hope to encourage real exchange between fields while keeping discussions rigorous and nuanced.
+
+We’re also happy to share that top-performing speakers and poster presenters will be recognized with awards at the conference. We encourage you to take this into account when preparing your presentations.
+
+}{
+## Ocena wystąpień
+
+Nasze wydarzenie ma na celu łączenie różnych dziedzin oraz wspieranie młodych naukowców w rozwijaniu umiejętności komunikowania swojej pracy — nawet kolegom i koleżankom z innych, równie wyspecjalizowanych obszarów. W związku z tym prezentacje i postery będą oceniane przez doktorantów z różnych dziedzin. Poza jakością badań brana będzie pod uwagę także klarowność i skuteczność przekazywania najważniejszych idei szerszej społeczności akademickiej. Mamy nadzieję, że takie podejście będzie sprzyjać wymianie wiedzy między dyscyplinami, przy jednoczesnym zachowaniu rzetelności oraz merytorycznej głębi dyskusji.
+
+Z przyjemnością informujemy, że najlepsi prelegenci oraz autorzy posterów zostaną wyróżnieni nagrodami podczas konferencji. Zachęcamy, aby wziąć to pod uwagę przy przygotowywaniu swoich wystąpień.
+
 }
 
 
