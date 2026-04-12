@@ -3,13 +3,6 @@ title="Partners"
 +++
 
 
-# \duallang{Partners}{Partnerzy}
-
-\duallang{
-No one is partnering us, at the moment. Do you want to partner us?}{
-Nikt nam nie partneruje, na dzień dzisiejszy. Czy chcesz nam partnerować?
-}
-
 ## \duallang{Patrons}{Patroni}
 
 ### \duallang{Honorary Patronage of the Rector of Jagiellonian University}{Honorowy Patronat Rektora Uniwersytetu Jagiellońskiego}
@@ -52,4 +45,11 @@ Nikt nam nie partneruje, na dzień dzisiejszy. Czy chcesz nam partnerować?
 \fig{/assets/partners/rkn-white.png}
 }{
 \fig{/assets/partners/rkn-blue.png}
+}
+
+# \duallang{Partners}{Partnerzy}
+
+\duallang{
+No one is partnering us, at the moment. Do you want to partner us?}{
+Nikt nam nie partneruje, na dzień dzisiejszy. Czy chcesz nam partnerować?
 }

@@ -19,6 +19,12 @@ title="Organisers"
 * **Karol Kasper Orkisz** - 3rd year student of physics
 * **Bartosz Żbik** - 3rd and 5th year student of mathematics 
 
+## Finance & logistics
+
+* **Dominik Ludwik Piasecki** - 3rd year student of physics
+* **Krzysztof Karol Kreiner (Treasurer)** - 2nd year student of physics
+* **Jakub Ukalski** - 2nd year student of physics
+
 ## Graphics
 
 * **Anastasiya Yushchuk** - 4th year student of advanced materials and nanotechnology
@@ -52,12 +58,6 @@ title="Organisers"
 * **Aleksandra Maria Rzeczyc** - 5th year student of biotechnology
 * **Daria Katarzyna Stocka** - 2nd year student of chemistry and 1st year student of law
 
-## Finance & logistics
-
-* **Dominik Ludwik Piasecki** - 3rd year student of physics
-* **Krzysztof Karol Kreiner (Treasurer)** - 2nd year student of physics
-* **Jakub Ukalski** - 
-
 
 }{
 # Organizatorzy
@@ -75,6 +75,13 @@ title="Organisers"
 * **Kamil Ireneusz Kazanowski** - student 3 roku fizyki
 * **Karol Kasper Orkisz** - student 3 roku fizyki
 * **Bartosz Żbik** - student 3 i 5 roku matematyki
+
+## Finanse & logistyka
+
+* **Dominik Ludwik Piasecki** - student 3 roku fizyki
+* **Krzysztof Karol Kreiner (Skarbnik)** - student 2 roku fizyki
+* **Jakub Ukalski** - student 2 roku fizyki
+
 
 ## Grafiki
 
@@ -109,10 +116,6 @@ title="Organisers"
 * **Aleksandra Maria Rzeczyc** - studentka 5 roku biotechnologii
 * **Daria Katarzyna Stocka** - studentka 2 roku chemii i 1 roku prawa
 
-## Finanse & logistyka
-
-* **Dominik Ludwik Piasecki** - student 3 roku fizyki
-* **Krzysztof Karol Kreiner (Skarbnik)** - student 2 roku fizyki
 
 
 }
