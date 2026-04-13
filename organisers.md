@@ -57,6 +57,7 @@ title="Organisers"
 * **Maciej Ziobro** - 3rd year student of physics
 * **Aleksandra Maria Rzeczyc** - 5th year student of biotechnology
 * **Daria Katarzyna Stocka** - 2nd year student of chemistry and 1st year student of law
+* **Mateusz Miłosz Winiarski** - 5th year student of physics
 * **Krzysztof Andrzej Kaczmarek** - 3rd year student of geology
 * **Piotr Jarosław Chudzio** - 3rd year student of mathematics
 * **Paweł Żuczek** - 2nd year student of physics
@@ -120,8 +121,10 @@ title="Organisers"
 * **Maciej Ziobro** - student 3 roku fizyki
 * **Aleksandra Maria Rzeczyc** - studentka 5 roku biotechnologii
 * **Daria Katarzyna Stocka** - studentka 2 roku chemii i 1 roku prawa
+* **Mateusz Miłosz Winiarski** - student 5 roku fizyki
 * **Krzysztof Andrzej Kaczmarek** - student 3 roku geologii
 * **Piotr Jarosław Chudzio** - student 3 roku matematyki
+* **Paweł Żuczek** - student 2 roku fizyki
 
 
 
