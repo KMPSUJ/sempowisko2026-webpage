@@ -98,24 +98,24 @@ Z przyjemnością informujemy, że najlepsi prelegenci oraz autorzy posterów zo
 
 \duallang{
 ## Schedule
-* April 23rd -- first day, WCh
-* April 24th -- second day, WCh
+* April 23rd -- first day, W Chuj
+* April 24th -- second day, W Chuj
 * April 25th -- third day (double session) and poster session, WFAIS
 * April 26th -- fourth day (double session), WFAIS
 }{
 ## Harmonogram
-* 23 kwietnia -- dzień pierwszy, WCh
-* 24 kwietnia -- dzień drugi, WCh
-* 25 kwietnia -- dzień trzeci (double session) and poster session, WFAIS
-* 26 kwietnia -- dzień czwarty (double session), WFAIS
+* 23 kwietnia -- dzień pierwszy, W Chuj
+* 24 kwietnia -- dzień drugi, W Chuj
+* 25 kwietnia -- dzień trzeci (podwójna sesja) i posterowa sesja, WFAIS
+* 26 kwietnia -- dzień czwarty (podwójna sesja), WFAIS
 }
 \duallang{
 ## Venue
-* WCh -- Faculty of Chemistry, Gronostajowa 2, room A0...
+* W Chuj -- Faculty of Chemistry, Gronostajowa 2, room A0...
 * WFAIS -- Faculty of Physics, Astronomy and Applied CS, Łojasiewicza 11, rooms A-1-06 and A-1-08
 }{
 ## Miejsce
-* WCh -- Wydział Chemii, Gronostajowa 2, sala A0...
+* W Chuj -- Wydział Chemii, Gronostajowa 2, sala A0...
 * WFAIS -- Wydział Fizyki, Astronomii i IS, Łojasiewicza 11, sala A-1-06 i A-1-08
 }
 
