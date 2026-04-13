@@ -33,7 +33,7 @@ XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – sta
 
 After submiting your form you will be sent a confirmation email. Please check the data you entered -- they will be written in book of abstracts and on certificates. In case of any errors contact us immediately.
 
-Stationary participation in the rest of SeMPowisko conference may come with a 30 zł fee (details will be given after the registration). Online participation is free of charge.
+**Information regarding the acceptance of your presentation and any applicable conference fee will be sent via email, so please check your inbox.**
 
 }{
 ## Rejestracja

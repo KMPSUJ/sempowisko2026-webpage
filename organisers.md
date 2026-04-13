@@ -22,7 +22,7 @@ title="Organisers"
 ## Finance & logistics
 
 * **Dominik Ludwik Piasecki** - 3rd year student of physics
-* **Krzysztof Karol Kreiner (Treasurer)** - 2nd year student of physics
+* **Krzysztof Karol Kreiner** - 2nd year student of physics
 * **Jakub Ukalski** - 2nd year student of physics
 
 ## Graphics
@@ -49,14 +49,19 @@ title="Organisers"
 
 ## Coordination of volunteers
 
-* **Maciej Ziobro** - 3rd year of physics
-* **Zofia Marta Buchman** - 3rd year of physics
+* **Maciej Ziobro** - 3rd year student of physics
+* **Zofia Marta Buchman** - 3rd year student of physics
 
 ## Scientific committee
 
-* **Maciej Ziobro** - 3rd year of physics
+* **Maciej Ziobro** - 3rd year student of physics
 * **Aleksandra Maria Rzeczyc** - 5th year student of biotechnology
 * **Daria Katarzyna Stocka** - 2nd year student of chemistry and 1st year student of law
+* **Krzysztof Andrzej Kaczmarek** - 3rd year student of geology
+* **Piotr Jarosław Chudzio** - 3rd year student of mathematics
+* **Paweł Żuczek** - 2nd year student of physics
+
+
 
 
 }{
@@ -79,7 +84,7 @@ title="Organisers"
 ## Finanse & logistyka
 
 * **Dominik Ludwik Piasecki** - student 3 roku fizyki
-* **Krzysztof Karol Kreiner (Skarbnik)** - student 2 roku fizyki
+* **Krzysztof Karol Kreiner** - student 2 roku fizyki
 * **Jakub Ukalski** - student 2 roku fizyki
 
 
@@ -92,7 +97,7 @@ title="Organisers"
 * **Natalia Maria Gajewska** - studentka 2 roku biofizyki molekuralnej i komórkowej 
 * **Daria Katarzyna Stocka** - studentka 2 roku chemii i 1 roku prawa
 
-## Kontakt i promocja
+## Kontakty i promocja
 
 * **Anastasiya Yushchuk** - studentka 4 roku zaawansowanych materiałów i nanotechnologii
 * **Gabriela Maria Kowacz** - studentka 4 roku zaawansowanych materiałów i nanotechnologii
@@ -115,6 +120,10 @@ title="Organisers"
 * **Maciej Ziobro** - student 3 roku fizyki
 * **Aleksandra Maria Rzeczyc** - studentka 5 roku biotechnologii
 * **Daria Katarzyna Stocka** - studentka 2 roku chemii i 1 roku prawa
+* **Krzysztof Andrzej Kaczmarek** - student 3 roku geologii
+* **Piotr Jarosław Chudzio** - student 3 roku matematyki
+
+
 
 
 
