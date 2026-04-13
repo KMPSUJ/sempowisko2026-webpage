@@ -27,7 +27,7 @@ XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – sta
 \duallang{
 ## Registration
 
-**The Registration is open until April \strike{10th!} 12nd!**
+**The Registration is \strike{open until April ̶1̶0̶t̶h̶! 12nd!} closed.**
 
 [Click here to register](https://register.sempowisko.com) -- registration for both active and passive participants.
 
@@ -38,7 +38,7 @@ Stationary participation in the rest of SeMPowisko conference may come with a 30
 }{
 ## Rejestracja
 
-**Rejestracja jest otwarta do \strike{10} 12 kwietnia!**
+**Rejestracja jest \strike{otwarta do ̶1̶0 12 kwietnia!} zamknięta.**
 
 [Link do rejestracji](https://register.sempowisko.com) -- rejestracja zarówno dla uczestników czynnych i biernych.
 
@@ -95,6 +95,29 @@ Z przyjemnością informujemy, że najlepsi prelegenci oraz autorzy posterów zo
 
 }
 
+
+\duallang{
+## Schedule
+* April 23rd -- first day, WCh
+* April 24th -- second day, WCh
+* April 25th -- third day (double session) and poster session, WFAIS
+* April 26th -- fourth day (double session), WFAIS
+}{
+## Harmonogram
+* 23 kwietnia -- dzień pierwszy, WCh
+* 24 kwietnia -- dzień drugi, WCh
+* 25 kwietnia -- dzień trzeci (double session) and poster session, WFAIS
+* 26 kwietnia -- dzień czwarty (double session), WFAIS
+}
+\duallang{
+## Venue
+* WCh -- Faculty of Chemistry, Gronostajowa 2, room A0...
+* WFAIS -- Faculty of Physics, Astronomy and Applied CS, Łojasiewicza 11, rooms A-1-06 and A-1-08
+}{
+## Miejsce
+* WCh -- Wydział Chemii, Gronostajowa 2, sala A0...
+* WFAIS -- Wydział Fizyki, Astronomii i IS, Łojasiewicza 11, sala A-1-06 i A-1-08
+}
 
 \duallang{
 ## Page Content
