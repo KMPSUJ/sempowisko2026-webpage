@@ -21,13 +21,13 @@ title = "Q&A"
 
 # Conference fee
 
-* \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is an honest price.}
+* \faq{Is there a fee to attend the conference online?}{ No. _Gratis_ is an honest price. }
 
-* \faq{How do I pay the conference fee?}{ In cash on site.}
+* \faq{How do I pay the conference fee?}{ To be announced. Please bring some cash with you just in case. }
 
 * \faq{Are there any additional fees?}{ No.}
 
-* \faq{Will I receive an invoice for the conference fee?}{ To be announced.}
+* \faq{Will I receive an invoice for the conference fee?}{ To be announced. }
 
 # Participation in the conference
  
@@ -92,7 +92,7 @@ title = "Q&A"
 
 * \faq{Czy udział w konferencji online jest płatny?}{ Nie. _Gratis_ to uczciwa cena.}
 
-* \faq{Jak mogę zapłacić opłatę konferencyjną?}{ Gotówką na miejscu.}
+* \faq{Jak mogę zapłacić opłatę konferencyjną?}{ Zostanie ogłoszone wkrótce. Na wszelki wypadek prosimy przyniść ze sobą trochę gotówki. }
 
 * \faq{Czy są jakieś dodatkowe opłaty?}{ Nie.}
 
