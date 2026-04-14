@@ -17,7 +17,7 @@ Follow us on [Facebook](https://www.facebook.com/events/2340948753013011) and [I
 
 }{
 
-Interesują Cię nauki ścisłe i przyrodnicze (cokolwiek to znaczy)? Zapraszamy na konferencję studencką SeMPowisko 2026!
+Interesują Cię nauki ścisłe i przyrodnicze? Zapraszamy na konferencję studencką SeMPowisko 2026!
 
 XXIV edycja odbędzie się **23–26 kwietnia 2026** w formie hybrydowej – stacjonarnie na Uniwersytecie Jagiellońskim w Krakowie i zdalnie na Microsoft Teams.
 
@@ -44,9 +44,7 @@ After submiting your form you will be sent a confirmation email. Please check th
 
 Po wysłaniu formularza otrzymasz maila z potwierdzeniem przyjęcia zgłoszenia. Prosimy o szczegółowe sprawdzenie danych, które zostały wprowadzone – dokładnie w takiej formie znajdą się one w książce abstraktów oraz na zaświadczeniach. W przypadku odnalezienia błędów prosimy o niezwłoczny kontakt.
 
-Po zamknięciu rejestracji i sprawdzeniu wszystkich zgłoszeń pod względem merytorycznym skontaktujemy się z Uczestnikami w celu potwierdzenia przyjęcia referatu/plakatu na konferencję.
-
-Około tygodnia przed konferencją otrzymasz maila, w którym poprosimy o potwierdzenie przybycia. Tylko osoby, które potwierdzą swoją obecność oraz uiszczą opłatę konferencyjną w wysokości 30 zł będą zarejestrowane (Osoby uczestniczące w formie zdalnej, uczestniczą za darmo).
+Po zamknięciu rejestracji i sprawdzeniu wszystkich zgłoszeń pod względem merytorycznym skontaktujemy się z uczestnikami w celu potwierdzenia przyjęcia referatu/plakatu na konferencję.
 }
 
 \duallang{
@@ -95,34 +93,25 @@ Z przyjemnością informujemy, że najlepsi prelegenci oraz autorzy posterów zo
 
 }
 
-
 \duallang{
 ## Schedule
-* April 23rd -- first day, W Chuj
-* April 24th -- second day, W Chuj
+* April 23rd -- first day, WCh
+* April 24th -- second day, WCh
 * April 25th -- third day (double session) and poster session, WFAIS
 * April 26th -- fourth day (double session), WFAIS
 }{
 ## Harmonogram
-* 23 kwietnia -- dzień pierwszy, W Chuj
-* 24 kwietnia -- dzień drugi, W Chuj
-* 25 kwietnia -- dzień trzeci (podwójna sesja) i posterowa sesja, WFAIS
+* 23 kwietnia -- dzień pierwszy, WCh
+* 24 kwietnia -- dzień drugi, WCh
+* 25 kwietnia -- dzień trzeci (podwójna sesja) i sesja posterowa, WFAIS
 * 26 kwietnia -- dzień czwarty (podwójna sesja), WFAIS
 }
 \duallang{
 ## Venue
-* W Chuj -- Faculty of Chemistry, Gronostajowa 2, room A0...
-* WFAIS -- Faculty of Physics, Astronomy and Applied CS, Łojasiewicza 11, rooms A-1-06 and A-1-08
+* WCh -- Faculty of Chemistry, Gronostajowa 2, rooms A-0-01 and A-0-03
+* WFAIS -- Faculty of Physics, Astronomy and Applied Computer Science, Łojasiewicza 11, rooms A-1-06 and A-1-08
 }{
 ## Miejsce
-* W Chuj -- Wydział Chemii, Gronostajowa 2, sala A0...
-* WFAIS -- Wydział Fizyki, Astronomii i IS, Łojasiewicza 11, sala A-1-06 i A-1-08
+* WCh -- Wydział Chemii, Gronostajowa 2, sala A-0-01 i A-0-03
+* WFAIS -- Wydział Fizyki, Astronomii i Informatyki Stosowanej, Łojasiewicza 11, sala A-1-06 i A-1-08
 }
-
-\duallang{
-## Page Content
-Soon...
-}{
-
-## Zawartość strony
-Wkrótce...}
