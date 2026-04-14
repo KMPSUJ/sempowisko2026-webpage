@@ -13,26 +13,47 @@
     </a>
   </div>
 
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
-    <!--
-<a class="sidebar-nav-item {{ispage invited-speakers/*}}active{{end}}" href="/invited-speakers/">Invited Speakers</a>
-<a class="sidebar-nav-item {{ispage timetable/*}}active{{end}}" href="/timetable/">Timetable</a>
--->
-    <a class="sidebar-nav-item {{ispage organisers/*}}active{{end}}" href="/organisers/">Organisers</a>
-    <a class="sidebar-nav-item {{ispage FAQ/*}}active{{end}}" href="/FAQ/">Q&A</a>
-    <a class="sidebar-nav-item {{ispage partners/*}}active{{end}}" href="/partners/">Partners & Patrons</a>
-    <a class="sidebar-nav-item {{ispage invited/*}}active{{end}}" href="/invited/">Invited speakers</a>
-    <a class="sidebar-nav-item" href="https://sempowisko.com/home">Previous editions</a>
-  </nav>
+  <!-- English navigation -->
+  <div class="lang-en">
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
+      <!--
+      <a class="sidebar-nav-item {{ispage invited-speakers/*}}active{{end}}" href="/invited-speakers/">Invited Speakers</a>
+      <a class="sidebar-nav-item {{ispage timetable/*}}active{{end}}" href="/timetable/">Timetable</a>
+      -->
+      <a class="sidebar-nav-item {{ispage organisers/*}}active{{end}}" href="/organisers/">Organisers</a>
+      <a class="sidebar-nav-item {{ispage FAQ/*}}active{{end}}" href="/FAQ/">Q&A</a>
+      <a class="sidebar-nav-item {{ispage partners/*}}active{{end}}" href="/partners/">Partners & Patrons</a>
+      <a class="sidebar-nav-item {{ispage invited/*}}active{{end}}" href="/invited/">Invited speakers</a>
+      <a class="sidebar-nav-item" href="https://sempowisko.com/home">Previous editions</a>
+    </nav>
+  </div>
 
-  <!--- @KMPSUJ. ---->
+  <!-- Polish navigation -->
+  <div class="lang-pl">
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Strona główna</a>
+      <!--
+      <a class="sidebar-nav-item {{ispage invited-speakers/*}}active{{end}}" href="/invited-speakers/">Invited Speakers</a>
+      <a class="sidebar-nav-item {{ispage timetable/*}}active{{end}}" href="/timetable/">Timetable</a>
+      -->
+      <a class="sidebar-nav-item {{ispage organisers/*}}active{{end}}" href="/organisers/">Organizatorzy</a>
+      <a class="sidebar-nav-item {{ispage FAQ/*}}active{{end}}" href="/FAQ/">Q&A</a>
+      <a class="sidebar-nav-item {{ispage partners/*}}active{{end}}" href="/partners/">Partnerzy i Patroni</a>
+      <a class="sidebar-nav-item {{ispage invited/*}}active{{end}}" href="/invited/">Zaproszeni goście</a>
+      <a class="sidebar-nav-item" href="https://sempowisko.com/home">Poprzednie edycje</a>
+    </nav>
+  </div>
+
+  <!-- @KMPSUJ. ---->
   <div class="sidebar-item">
     <p>&copy; {{fill author}}.</p>
   </div>
 
   <!-- Sidebar Contact Section -->
   <div class="sidebar-item">
+
+    <!-- English Contact Section -->
     <div class="lang-en">
       <div class="sidebar-contact">
         <h4>Contact</h4>
@@ -116,7 +137,10 @@
           GitHub
         </a><br>
       </div>
-    </div><!-- lang-en -->
+    </div>
+
+
+    <!-- Polish Contact Section -->
     <div class="lang-pl">
       <div class="sidebar-contact">
         <h4>Kontakt</h4>
@@ -199,8 +223,8 @@
           GitHub
         </a><br>
       </div>
-    </div><!-- lang-pl -->
-  </div><!-- End of Contact Section -->
+    </div>
+  </div>
 
 </div>
 
