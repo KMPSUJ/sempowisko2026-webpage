@@ -45,7 +45,7 @@ title="Partners"
 \fig{/assets/partners/ALogoPAN_podstawowe_czarny_PL.svg}
 }
 
-### \duallang{Copernicus Center fi Interdisciplinary Studies}{Centrum Kopernika Badań Interdyscyplinarnych}
+### \duallang{Copernicus Center for Interdisciplinary Studies}{Centrum Kopernika Badań Interdyscyplinarnych}
 
 \dualcolor{
 \fig{/assets/partners/cclogo_2_white.svg}
