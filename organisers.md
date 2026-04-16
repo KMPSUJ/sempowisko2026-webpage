@@ -62,7 +62,9 @@ title="Organisers"
 * **Piotr Jarosław Chudzio** - 3rd year student of mathematics
 * **Paweł Żuczek** - 2nd year student of physics
 
+## Contest for the best speech/poster comittee
 
+* **Dawid Kazimierz Zapolski (Comittee coordinator)** - 2nd year PhD student in technical computer science
 
 
 }{
@@ -87,7 +89,6 @@ title="Organisers"
 * **Dominik Ludwik Piasecki** - student 3 roku fizyki
 * **Krzysztof Karol Kreiner** - student 2 roku fizyki
 * **Jakub Ukalski** - student 2 roku fizyki
-
 
 ## Grafiki
 
@@ -126,8 +127,8 @@ title="Organisers"
 * **Piotr Jarosław Chudzio** - student 3 roku matematyki
 * **Paweł Żuczek** - student 2 roku fizyki
 
+## Komitet ds. konkurs na najlepszy referat/poster
 
-
-
+* **Dawid Kazimierz Zapolski (Koordynator komitetu)** - doktorant 2 roku studiów doktoranckich z informatyki technicznej
 
 }
