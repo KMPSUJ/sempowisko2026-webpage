@@ -37,7 +37,7 @@ title="Partners"
 \fig{/assets/partners/lukasiewicz-blue.svg}
 }
 
-### \duallang{Polish Academy of Sciences}{Polska Akademia Nauk}
+### \duallang{Polish Academy of Sciences Kraków Branch}{Polska Akademia Nauk, oddział w Krakowie}
 
 \dualcolor{
 \fig{/assets/partners/ALogoPAN_podstawowe_biay_PL.svg}
@@ -45,7 +45,7 @@ title="Partners"
 \fig{/assets/partners/ALogoPAN_podstawowe_czarny_PL.svg}
 }
 
-### \duallang{Copernicus Center Foundation}{Fundacja Centrum Kopernika}
+### \duallang{Copernicus Center fi Interdisciplinary Studies}{Centrum Kopernika Badań Interdyscyplinarnych}
 
 \dualcolor{
 \fig{/assets/partners/cclogo_2_white.svg}
