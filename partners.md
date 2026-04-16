@@ -37,6 +37,21 @@ title="Partners"
 \fig{/assets/partners/lukasiewicz-blue.svg}
 }
 
+### \duallang{Polish Academy of Sciences}{Polska Akademia Nauk}
+
+\dualcolor{
+\fig{/assets/partners/ALogoPAN_podstawowe_biay_PL.svg}
+}{
+\fig{/assets/partners/ALogoPAN_podstawowe_czarny_PL.svg}
+}
+
+### \duallang{Copernicus Center Foundation}{Fundacja Centrum Kopernika}
+
+\dualcolor{
+\fig{/assets/partners/cclogo_2_white.svg}
+}{
+\fig{/assets/partners/cclogo_2.png}}
+
 ## \duallang{Sponsors}{Sponsorzy}
 
 ### \duallang{Jagiellonian University Council of Scientific Circles}{Rada Kół Naukowych Uniwersytetu Jagiellońskiego}
@@ -45,6 +60,14 @@ title="Partners"
 \fig{/assets/partners/rkn-white.png}
 }{
 \fig{/assets/partners/rkn-blue.png}
+}
+
+### \duallang{The Foundation of Students and Graduates of the Jagiellonian University "Bratniak"}{Fundacja Studentów i Absolwentów UJ „Bratniak”}
+
+\dualcolor{
+\fig{/assets/partners/bratniak_white.svg}
+}{
+\fig{/assets/partners/bratniak_black.svg}
 }
 
 # \duallang{Partners}{Partnerzy}
