@@ -112,4 +112,102 @@ chemiczny wód i procesy jego kształtowania.🌍💧
     @@
 <!-- @@ -->
 
+## Prof. Dominik Kwietniak
+    @@event-descrb
+        @@event-descrb-text
+\duallang{✨ It is our great pleasure to introduce our next speaker – Dominik Kwietniak, Professor at the Jagiellonian University ✨
+Professor of Mathematics at the Jagiellonian University, he serves as the Head of the Department of Differential Equations.
+
+He completed his Master’s degree at the Jagiellonian University as a graduate of our Individual Interdisciplinary Studies in Mathematics and Natural Sciences (SMP). In 2006, he obtained his PhD in Mathematics at the Jagiellonian University. In 2015–2017, he worked as a researcher at the Federal University of Rio de Janeiro. In 2017, he received his habilitation at his alma mater.
+
+Prof. Kwietniak specializes in topological dynamics and ergodic theory. These are among the cornerstones of modern dynamical systems theory — a field of mathematics describing phenomena observed in everyday life, from weather forecasting to the analysis of financial markets.
+}{
+✨ Z ogromną przyjemnością przedstawiamy Państwu naszego kolejnego mówcę — dr hab. Dominika Kwietniaka, prof. UJ ✨
+Profesor matematyki na Uniwersytecie Jagiellońskim, pełni funkcję kierownika Katedry Równań Różniczkowych.
+
+Studia magisterskie ukończył na Uniwersytecie Jagiellońskim, będąc absolwentem naszego kierunku – Studiów Matematyczno-Przyrodniczych (SMP). W 2006 roku uzyskał doktorat z matematyki na Uniwersytecie Jagiellońskim. W latach 2015–2017 był pracownikiem naukowym na Federal University of Rio de Janeiro. W 2017 roku habilitował się na macierzystej uczelni.
+
+Prof. Kwietniak zajmuje się dynamiką topologiczną oraz teorią ergodyczną. Są to jedne z fundamentów współczesnej teorii układów dynamicznych — dziedziny matematyki opisującej zjawiska obserwowane na co dzień, od prognozy pogody po analizę procesów na rynkach finansowych.
+}
+
+        @@
+        @@fig
+\fig{/assets/speakers/dominik_kwietniak}
+        @@
+    @@
+<!-- @@ -->
+
+## Prof. Konrad Szaciłowski
+    @@event-descrb
+        @@event-descrb-text
+
+\duallang{
+✨It is our great pleasure to introduce our next speaker — Professor Konrad Szaciłowski, Head of the Department of Photophysics and Electrochemistry of Semiconductors.✨
+
+🧠 Professor Szaciłowski obtained the title of Master of Science in Chemistry from Jagiellonian University in 1995, and earned his PhD in 2000. He completed research internships at the University of Erlangen and Wayne State University. In 2008, he received his habilitation at Jagiellonian University and became affiliated with AGH University of Science and Technology. He was awarded the title of professor in 2015 while working at the Faculty of Non-Ferrous Metals. Currently, he is affiliated with the Academic Centre for Materials and Nanotechnology at AGH, where he continues to develop innovative research directions.
+
+🧠 From an early stage in his career, Professor Szaciłowski has shown a strong interest in electronics and computer science. By combining these fields with his academic foundation in chemistry, he became a pioneer in one of the youngest fields of science known as chemoinformatics. Among his numerous achievements, one of the most notable is the development of an artificial neuron.
+}{
+✨Z ogromną przyjemnością przedstawiamy Państwu naszego kolejnego mówcę — Profesora Konrada Szaciłowskiego, Kierownika Zakładu Fotofizyki i Elektrochemii Półprzewodników. ✨
+
+🧠 Profesor Szaciłowski w 1995 roku ukończył studia magisterskie na Wydziale Chemii UJ, a w 2000r. uzyskał tytuł doktora. Odbywał staże w laboratoriach chemicznych na Uniwersytecie w Erlangen i Wayn State University. W 2008 roku uzyskał tytuł doktora habilitowanego na Uniwersytecie Jagiellońskim i związał się z AGH. W 2015 roku zdobył tytuł profesora w trakcie pracy na Wydziale Metali Nieżelaznych AGH. Aktualnie pracuje w Akademickim Centrum Materiałów i Nanotechnologii AGH, gdzie rozwija swoje innowacyjne pomysły.
+
+🧠 Profesor Szaciłkowski od zawsze interesował się elektroniką i informatyką, a chcąc połączyć to ze swoim wykształceniem chemicznym stał się pionierem jednej z nowszych dziedzin nauki — infochemii. Najsłynniejszym z wielu jego osiągnięć było wytworzenie sztucznego neuronu.
+}
+
+        @@
+        @@fig
+\fig{/assets/speakers/konrad_szacilowski}
+        @@
+    @@
+<!-- @@ -->
+
+# \duallang{Workshops}{Warsztaty}
+
+## \duallang{Prof. Barbara Gil -- *Presentation techniques*}{Prof. Barbara Gil -- *Techniki prezentacji*}
+    @@event-descrb
+        @@event-descrb-text
+
+\duallang{
+✨ We are pleased to invite you to a special workshop on presentation techniques led by Professor Barbara Gil, PhD, DSc, from the Faculty of Chemistry at the Jagiellonian University! ✨
+
+🧠 Professor Barbara Gil specializes in the chemistry of porous materials - zeolites and metal-organic frameworks. Her research primarily focuses on the application of advanced porous materials as carriers for medicinal substances intended for oral administration, inhalation, implantation, or topical use, which is essential for the development of personalized medicine. She also serves as the head of the doctoral training program at the Doctoral School of Exact and Natural Sciences for the Faculty of Chemistry and teaches courses on methods and techniques of data presentation, the art of science communication, and interpersonal skills.
+
+🧠 The workshop will take place on the first day of the conference (Thursday, April 23rd). Participants are kindly asked to ensure access to at least one laptop per two people for the duration of the workshop.
+
+❗️The workshop will be conducted in Polish.❗️
+}{
+✨ Mamy przyjemność zaprosić Państwa na wyjątkowe warsztaty z technik prezentacji prowadzone przez prof. dr hab. Barbarę Gil z Wydziału Chemii UJ! ✨
+
+🧠 Prof. dr hab. Barbara Gil na co dzień zajmuje się chemią materiałów porowatych - zeolitów i sieci metaloorganicznych. Głównie prowadzi badania związane z zastosowaniem najnowszych materiałów porowatych jako nośników substancji leczniczych przeznaczonych do podania doustnego, inhalacji, implantacji lub stosowania miejscowego, co jest niezbędne dla rozwoju medycyny personalizowanej. Jest również kierowniczką programu kształcenia w Szkole Doktorskiej Nauk Ścisłych i Przyrodniczych dla Wydziału Chemii oraz prowadzi kursy z metod i technik prezentacji danych, sztuki komunikacji w naukach ścisłych i umięjętności interpersonalnych.
+
+🧠 Warsztaty odbędą się w pierwszy dzień konferencji (czwartek, 23 kwietnia). Zainteresowanych prosimy o zapewnienie przynajmniej jednego laptopa na dwie osoby na czas warsztatów.
+
+❗️Warsztaty prowadzone będą w języku polskim.❗️
+}
+
+        @@
+        @@fig
+\fig{/assets/speakers/barbara_gil}
+        @@
+    @@
+<!-- @@ -->
+
+## \duallang{Dr. Jakub Pruś -- *Cracovian Debate*}{Dr. Jakub Pruś -- *debata krakowska*}
+    @@event-descrb
+        @@event-descrb-text
+
+\duallang{
+description soon...
+}{
+opis wkrótce... 
+}
+
+        @@
+        @@fig
+\fig{/assets/speakers/jakub_prus}
+        @@
+    @@
+<!-- @@ -->
+
 ## \duallang{More to be announced...}{Więcej wkrótce...}
