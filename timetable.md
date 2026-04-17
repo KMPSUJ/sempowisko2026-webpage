@@ -10,10 +10,10 @@ title="SeMPowisko timetable"
 
 \duallang{
 ## Book of abstracts
-[download book of abstracts here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[download book of abstracts here](../assets/pdfs/BOA_SeMPowisko_2026.pdf)
 }{
 ## Książka abstraktów
-[pobierz tutaj książkę abstraktów](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[pobierz tutaj książkę abstraktów](../assets/pdfs/BOA_SeMPowisko_2026.pdf)
 }
 
 \duallang{
