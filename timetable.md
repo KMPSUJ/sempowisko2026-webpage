@@ -9,7 +9,7 @@ title="SeMPowisko timetable"
 }
 
 \duallang{
-## Book Of Abstracts
+## Book of abstracts
 [download book of abstracts here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 }{
 ## Książka abstraktów
