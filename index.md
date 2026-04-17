@@ -108,10 +108,10 @@ Z przyjemnością informujemy, że najlepsi prelegenci oraz autorzy posterów zo
 }
 \duallang{
 ## Venue
-* WCh -- Faculty of Chemistry, Gronostajowa 2, rooms A-0-01 and A-0-03
+* WCh -- Faculty of Chemistry, Gronostajowa 2, rooms A0-01 and A0-03
 * WFAIS -- Faculty of Physics, Astronomy and Applied Computer Science, Łojasiewicza 11, rooms A-1-06 and A-1-08
 }{
 ## Miejsce
-* WCh -- Wydział Chemii, Gronostajowa 2, sala A-0-01 i A-0-03
+* WCh -- Wydział Chemii, Gronostajowa 2, sala A0-01 i A0-03
 * WFAIS -- Wydział Fizyki, Astronomii i Informatyki Stosowanej, Łojasiewicza 11, sala A-1-06 i A-1-08
 }
