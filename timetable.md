@@ -66,7 +66,7 @@ title="SeMPowisko timetable"
 
 \harmitem{11:30--12:00}{WCh}{Coffee break}{}{}{}
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Invited talk}{}{geografia}
-\harmitem{12:45--13:45}{WCh}{Lunch break}{}{}{}
+\harmitem{12:45--13:45}{WFAIS}{Lunch break}{}{}{}
 
 \harmitem{13:45--13:55}{WCh A0-01}{Synthesis of zeolite Y using sustainable cellulose nanocrystals as templates}{Błażej Mrowiec}{7}{chemia}
 \harmitem{13:45--14:00}{WCh A0-03}{Calibration algorithm for the mathematical model of the autonomous boat Barka}{Kamil Zając}{60}{informatyka}
@@ -99,7 +99,7 @@ title="SeMPowisko timetable"
 
 \harmitem{11:30--12:00}{WCh}{Przerwa na kawę}{}{}{}
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Wykład gościnny}{}{geografia}
-\harmitem{12:45--13:45}{WCh}{Przerwa obiadowa}{}{}{}
+\harmitem{12:45--13:45}{WFAIS}{Przerwa obiadowa}{}{}{}
 
 \harmitem{13:45--13:55}{WCh A0-01}{Synthesis of zeolite Y using sustainable cellulose nanocrystals as templates}{Błażej Mrowiec}{7}{chemia}
 \harmitem{13:45--14:00}{WCh A0-03}{Calibration algorithm for the mathematical model of the autonomous boat Barka}{Kamil Zając}{60}{informatyka}
