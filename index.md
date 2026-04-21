@@ -6,7 +6,7 @@ tags = ["main", "home"]
 
 \duallang{
 ## Announcement: Get Together!
-$\int$ **Integration** $d\mu$ on Friday 24th april!
+$\int$ **Integration** $d\mu$ on Friday 24th April!
 
 More information will be announced in near future.
 }{
