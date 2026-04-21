@@ -4,6 +4,17 @@ title = "SeMPowisko 2026"
 tags = ["main", "home"]
 +++
 
+\duallang{
+## Announcement: Get Together!
+$\int$ **Integration** $d\mu$ on Friday 24th april!
+
+More information will be announced in near future.
+}{
+## Ogłoszenie: Integracja!
+$\int$ **Integracja** $d\mu$ w piątek 24 kwietnia!
+
+Więcej informacji podamy wkrótce.
+}
 
 
 # \SeMPowisko 2026
