@@ -70,4 +70,4 @@ Add here global latex commands to use throughout your pages.
   </a>
 ~~~}
 
-\newcommand{\harmitem}[6]{~~~<li>~~~ __!#1__ #3 ~~~<SPan class="harm-opt">~~~#4~~~</span>~~~ \duallang{_(location: #2)_}{_(lokalizacja: #2)_} ~~~</li>~~~}
+\newcommand{\harmitem}[6]{~~~<li>~~~ __!#1__ #3 ~~~<span class="harm-opt">~~~#4~~~</span>~~~ \duallang{_(location: #2)_}{_(lokalizacja: #2)_} ~~~</li>~~~}

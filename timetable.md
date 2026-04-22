@@ -28,7 +28,11 @@ title="SeMPowisko timetable"
 \harmitem{15:15--15:30}{WCh A0-01}{Opening}{}{}{}
 
 \harmitem{15:30--15:45}{WCh A0-01}{Łukasiewicz Kraków Institute of Technology: presentation}{}{}{}
-\harmitem{15:45--17:15}{WCh A0-01}{Presentation techniques}{Prof. Barbara Gil -- workshops}{}{warsztaty}
+\harmitem{15:45--16:05}{WCh A0-01}{Kakeya Sets}{Michał Mańka}{28}{matematyka}
+\harmitem{16:10--16:30}{WCh A0-01}{Are time series proper approach to assess continous-time phenomena? About weak convergence in Skorohod spaces.}{Maciej Ostapiuk}{23}{matematyka}
+\harmitem{16:35--16:45}{WCh A0-01}{Precision measure - a methodology for quantifying the precision of numerical methods.}{Łukasz Schab}{25}{matematyka}
+\harmitem{16:50--17:10}{WCh A0-01}{The Yoneda Lemma}{Piotr Chudzio}{123}{matematyka}
+
 \harmitem{17:15--17:45}{WCh}{Coffee break}{}{}{}
 
 \harmitem{17:45--18:00}{WCh A0-01}{n-Alkyl Xanthic Acids monolayers on Ag(111)}{Marta Szatny}{99}{fizyka}
@@ -41,7 +45,10 @@ title="SeMPowisko timetable"
 \harmitem{15:15--15:30}{WCh A0-01}{Otwarcie konferecji}{}{}{}
 
 \harmitem{15:30--15:45}{WCh A0-01}{Łukasiewicz – Krakowski Instytut Technologiczny: prezentacja}{}{}{}
-\harmitem{15:45--17:15}{WCh A0-01}{Techniki prezentacji}{Prof. Barbara Gil -- warsztaty}{}{warsztaty}
+\harmitem{15:45--16:05}{WCh A0-01}{Kakeya Sets}{Michał Mańka}{28}{matematyka}
+\harmitem{16:10--16:30}{WCh A0-01}{Are time series proper approach to assess continous-time phenomena? About weak convergence in Skorohod spaces.}{Maciej Ostapiuk}{23}{matematyka}
+\harmitem{16:35--16:45}{WCh A0-01}{Precision measure - a methodology for quantifying the precision of numerical methods.}{Łukasz Schab}{25}{matematyka}
+\harmitem{16:50--17:10}{WCh A0-01}{The Yoneda Lemma}{Piotr Chudzio}{123}{matematyka}
 \harmitem{17:15--17:45}{WCh}{Przerwa na kawę}{}{}{}
 
 \harmitem{17:45--18:00}{WCh A0-01}{n-Alkyl Xanthic Acids monolayers on Ag(111)}{Marta Szatny}{99}{fizyka}
@@ -59,13 +66,13 @@ title="SeMPowisko timetable"
 \duallang{
 ~~~<ul>~~~
 \harmitem{9:00--10:00}{WCh}{Registration}{}{}{}
-\harmitem{10:00--10:20}{WCh A0-01}{Are time series proper approach to assess continous-time phenomena? About weak convergence in Skorohod spaces.}{Maciej Ostapiuk}{23}{matematyka}
-\harmitem{10:25--10:45}{WCh A0-01}{Kakeya Sets}{Michał Mańka}{28}{matematyka}
-\harmitem{10:50--11:00}{WCh A0-01}{Precision measure - a methodology for quantifying the precision of numerical methods.}{Łukasz Schab}{25}{matematyka}
-\harmitem{11:05--11:25}{WCh A0-01}{The Yoneda Lemma}{Piotr Chudzio}{123}{matematyka}
+
+\harmitem{10:00--11:30}{WCh A0-01}{Presentation techniques}{Prof. Barbara Gil -- workshops}{}{warsztaty}
 
 \harmitem{11:30--12:00}{WCh}{Coffee break}{}{}{}
+
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Invited talk}{}{geografia}
+
 \harmitem{12:45--13:45}{WFAIS}{Lunch break}{}{}{}
 
 ~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
@@ -98,13 +105,13 @@ title="SeMPowisko timetable"
 }{
 ~~~<ul>~~~
 \harmitem{9:00--10:00}{WCh}{Rejestracja}{}{}{}
-\harmitem{10:00--10:20}{WCh A0-01}{Are time series proper approach to assess continous-time phenomena? About weak convergence in Skorohod spaces.}{Maciej Ostapiuk}{23}{matematyka}
-\harmitem{10:25--10:45}{WCh A0-01}{Kakeya Sets}{Michał Mańka}{28}{matematyka}
-\harmitem{10:50--11:00}{WCh A0-01}{Precision measure - a methodology for quantifying the precision of numerical methods.}{Łukasz Schab}{25}{matematyka}
-\harmitem{11:05--11:25}{WCh A0-01}{The Yoneda Lemma}{Piotr Chudzio}{123}{matematyka}
+
+\harmitem{10:00--11:30}{WCh A0-01}{Techniki prezentacji}{Prof. Barbara Gil -- warsztaty}{}{warsztaty}
 
 \harmitem{11:30--12:00}{WCh}{Przerwa na kawę}{}{}{}
+
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Wykład gościnny}{}{geografia}
+
 \harmitem{12:45--13:45}{WFAIS}{Przerwa obiadowa}{}{}{}
 
 ~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
