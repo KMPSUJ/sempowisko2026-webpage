@@ -5,15 +5,15 @@ tags = ["main", "home"]
 +++
 
 \duallang{
-## Announcement: Get Together!
-$\int$ **Integration** $d\mu$ on Friday April 24th!
+## Announcement: Get together!
+$\int$ **Integration** $d\mu$ at 7.00 pm on Friday April 24th!
 
-More information will be announced in near future.
+Venue: BeerStreet, BEERA Meiselsa 9 Street, [Google Maps](https://www.google.com/maps/place/BeerStreet/@50.0500383,19.9418292,16.28z/data=!4m15!1m8!3m7!1s0x47165b0aecebfd57:0x7a5970e24c4cd61c!2sBeerStreet!8m2!3d50.0509241!4d19.943034!10e1!16s%2Fg%2F11h3x589kb!3m5!1s0x47165b0aecebfd57:0x7a5970e24c4cd61c!8m2!3d50.0509241!4d19.943034!16s%2Fg%2F11h3x589kb?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D)
 }{
 ## Ogłoszenie: Integracja!
-$\int$ **Integracja** $d\mu$ w piątek 24 kwietnia!
+$\int$ **Integracja** $d\mu$ o 19.00 w piątek 24 kwietnia!
 
-Więcej informacji podamy wkrótce.
+Miejsce: BeerStreet, ul. BEERA Meiselsa 9, [Google Maps](https://www.google.com/maps/place/BeerStreet/@50.0500383,19.9418292,16.28z/data=!4m15!1m8!3m7!1s0x47165b0aecebfd57:0x7a5970e24c4cd61c!2sBeerStreet!8m2!3d50.0509241!4d19.943034!10e1!16s%2Fg%2F11h3x589kb!3m5!1s0x47165b0aecebfd57:0x7a5970e24c4cd61c!8m2!3d50.0509241!4d19.943034!16s%2Fg%2F11h3x589kb?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D)
 }
 
 
