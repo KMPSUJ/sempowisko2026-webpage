@@ -80,7 +80,7 @@ title="SeMPowisko timetable"
 \harmitem{14:25--14:35}{WCh A0-03}{Computational Electromagnetics in the Cloud: Overcoming Hardware Limitations in FDTD Simulations}{Jakub Rudak}{167}{informatyka}
 \harmitem{14:30--14:45}{WCh A0-01}{Ferrocene-Modified Seliciclib Derivatives as Selective CDK Inhibitors: A Novel Approach in Cancer Therapy}{Eryk Federyga}{40}{chemia}
 \harmitem{14:40--14:50}{WCh A0-03}{The Geometry of Thought: Bridging Phenomenological Psychology and Mathematical Modeling}{Bartosz Chmielarski}{69}{matematyka}
-\harmitem{14:50--15:05}{WCh A0-01}{Targeted Protein Degradation - Harnestyle="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;"ssing chimeras for the development of selective drugs}{Michał Merynda}{112}{chemia}
+\harmitem{14:50--15:05}{WCh A0-01}{Targeted Protein Degradation - Harnessing chimeras for the development of selective drugs}{Michał Merynda}{112}{chemia}
 \harmitem{14:55--15:10}{WCh A0-03}{Touching Atoms: An Introduction to Scanning Probe Microscopy}{Michał Cyl}{89}{fizyka}
 \harmitem{15:10--15:25}{WCh A0-01}{Open-Shell Switches: Dimeric Macrocycles for Singlet-Triplet Control}{Kamil Banasiuk}{153}{chemia}
 
