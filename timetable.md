@@ -68,6 +68,10 @@ title="SeMPowisko timetable"
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Invited talk}{}{geografia}
 \harmitem{12:45--13:45}{WFAIS}{Lunch break}{}{}{}
 
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{13:45--13:55}{WCh A0-01}{Synthesis of zeolite Y using sustainable cellulose nanocrystals as templates}{Błażej Mrowiec}{7}{chemia}
 \harmitem{13:45--14:00}{WCh A0-03}{Calibration algorithm for the mathematical model of the autonomous boat Barka}{Kamil Zając}{60}{informatyka}
 \harmitem{14:00--14:10}{WCh A0-01}{Role of heuristic models in science development on the example of the metal-organic frameworks}{Oliwier Widawski}{36}{chemia}
@@ -76,10 +80,12 @@ title="SeMPowisko timetable"
 \harmitem{14:25--14:35}{WCh A0-03}{Computational Electromagnetics in the Cloud: Overcoming Hardware Limitations in FDTD Simulations}{Jakub Rudak}{167}{informatyka}
 \harmitem{14:30--14:45}{WCh A0-01}{Ferrocene-Modified Seliciclib Derivatives as Selective CDK Inhibitors: A Novel Approach in Cancer Therapy}{Eryk Federyga}{40}{chemia}
 \harmitem{14:40--14:50}{WCh A0-03}{The Geometry of Thought: Bridging Phenomenological Psychology and Mathematical Modeling}{Bartosz Chmielarski}{69}{matematyka}
-\harmitem{14:50--15:05}{WCh A0-01}{Targeted Protein Degradation - Harnessing chimeras for the development of selective drugs}{Michał Merynda}{112}{chemia}
+\harmitem{14:50--15:05}{WCh A0-01}{Targeted Protein Degradation - Harnestyle="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;"ssing chimeras for the development of selective drugs}{Michał Merynda}{112}{chemia}
 \harmitem{14:55--15:10}{WCh A0-03}{Touching Atoms: An Introduction to Scanning Probe Microscopy}{Michał Cyl}{89}{fizyka}
 \harmitem{15:10--15:25}{WCh A0-01}{Open-Shell Switches: Dimeric Macrocycles for Singlet-Triplet Control}{Kamil Banasiuk}{153}{chemia}
 
+
+~~~</div>~~~
 \harmitem{15:30--15:45}{WCh}{Coffee break}{}{}{}
 \harmitem{15:45--16:45}{WCh A0-01}{Invited Talk: Mathematics}{Prof. Dominik Kwietniak -- Invited talk}{}{matematyka}
 \harmitem{16:45--18:00}{WCh A0-01}{Cracovian Debate}{Dr. Jakub Pruś -- workshops}{}{warsztaty}
@@ -101,6 +107,10 @@ title="SeMPowisko timetable"
 \harmitem{12:00--12:45}{WCh A0-01}{Hydrogeology of arid regions: issues and case studies}{Prof. Bartłomiej Rzonca -- Wykład gościnny}{}{geografia}
 \harmitem{12:45--13:45}{WFAIS}{Przerwa obiadowa}{}{}{}
 
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{13:45--13:55}{WCh A0-01}{Synthesis of zeolite Y using sustainable cellulose nanocrystals as templates}{Błażej Mrowiec}{7}{chemia}
 \harmitem{13:45--14:00}{WCh A0-03}{Calibration algorithm for the mathematical model of the autonomous boat Barka}{Kamil Zając}{60}{informatyka}
 \harmitem{14:00--14:10}{WCh A0-01}{Role of heuristic models in science development on the example of the metal-organic frameworks}{Oliwier Widawski}{36}{chemia}
@@ -113,6 +123,7 @@ title="SeMPowisko timetable"
 \harmitem{14:55--15:10}{WCh A0-03}{Touching Atoms: An Introduction to Scanning Probe Microscopy}{Michał Cyl}{89}{fizyka}
 \harmitem{15:10--15:25}{WCh A0-01}{Open-Shell Switches: Dimeric Macrocycles for Singlet-Triplet Control}{Kamil Banasiuk}{153}{chemia}
 
+~~~</div>~~~
 \harmitem{15:30--15:45}{WCh}{Przerwa na kawę}{}{}{}
 \harmitem{15:45--16:45}{WCh A0-01}{Invited Talk: Mathematics}{Prof. Dominik Kwietniak -- Wyład gościnny}{}{matematyka}
 \harmitem{16:45--18:00}{WCh A0-01}{Debata krakowska}{Dr Jakub Pruś -- warsztaty}{}{warsztaty}
@@ -136,6 +147,10 @@ title="SeMPowisko timetable"
 \harmitem{10:00--11:00}{WFAIS A-1-06}{Invited talk: Biosciences}{Prof. Mariusz Gagoś -- Invited talk}{}{biologia}
 \harmitem{11:00--11:30}{WFAIS}{Coffee break}{}{}{}
 
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{11:30--11:50}{WFAIS A-1-06}{The impact of gravitational waves on radiation emission}{Mikołaj Dettlaff}{8}{fizyka}
 \harmitem{11:30--11:50}{WFAIS A-1-08}{All the FUS about water}{Artur Czajkowski}{16}{biologia}
 \harmitem{11:55--12:05}{WFAIS A-1-06}{Fisher Information from Stimulated Emission in the Unruh-DeWitt Detector in the Presence of a Gravitational Wave}{Jakub Schindler}{14}{fizyka}
@@ -143,9 +158,15 @@ title="SeMPowisko timetable"
 \harmitem{12:10--12:25}{WFAIS A-1-06}{Potential reality -- on the Aharonov-Bohm effect}{Michał Mielnicki}{152}{fizyka}
 \harmitem{12:10--12:25}{WFAIS A-1-08}{MNPs in neurotoxicity: Complex effects on microglia and brain health}{Emilia Wojtuła}{52}{biologia}
 
+~~~</div>~~~
+
 \harmitem{12:45--13:00}{WFAIS}{Group photo}{}{}{}
 \harmitem{13:00--14:00}{WFAIS}{Lunch break}{}{}{}
 \harmitem{14:00--15:00}{WFAIS A-1-06}{HYADES}{Dr Michał Drahus -- Invited talk}{}{astronomia}
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
 
 \harmitem{15:00--15:10}{WFAIS A-1-06}{Design and Implementation of a Power System and Electric Motor for a Hydrogen Fuel Cell-Powered USV}{Seweryn Sawicki}{75}{inzynieria}
 \harmitem{15:00--15:20}{WFAIS A-1-08}{How do folds above faults develop?}{Szymon Mol}{24}{geografia}
@@ -158,6 +179,8 @@ title="SeMPowisko timetable"
 \harmitem{16:10--16:20}{WFAIS A-1-06}{Experimental Validation of CFD Models for Microfluidic Flow in 3D-Printed Channels}{Jakub Pietraszewski}{71}{inzynieria}
 \harmitem{16:20--16:35}{WFAIS A-1-08}{Stratospheric Aerosol Injection as climate intervention: A solution or a challenge?}{Damian Jojczyk}{155}{geografia}
 \harmitem{16:25--16:35}{WFAIS A-1-06}{Modeling in the Shades of Grey: A Comparative Analysis of White-, Black-, and Grey-box Approaches for Control Valve Identification}{Anna Wójcik}{9}{inzynieria}
+
+~~~</div>~~~
 
 \harmitem{16:40--17:00}{WFAIS}{Coffee break}{}{}{}
 \harmitem{17:00--18:30}{WFAIS}{Poster session}{}{}{}
@@ -168,6 +191,10 @@ title="SeMPowisko timetable"
 \harmitem{10:00--11:00}{WFAIS A-1-06}{Invited talk: Biosciences}{Prof. Mariusz Gagoś -- Wykład gościnny}{}{biologia}
 \harmitem{11:00--11:30}{WFAIS}{Przerwa na kawę}{}{}{}
 
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{11:30--11:50}{WFAIS A-1-06}{The impact of gravitational waves on radiation emission}{Mikołaj Dettlaff}{8}{fizyka}
 \harmitem{11:30--11:50}{WFAIS A-1-08}{All the FUS about water}{Artur Czajkowski}{16}{biologia}
 \harmitem{11:55--12:05}{WFAIS A-1-06}{Fisher Information from Stimulated Emission in the Unruh-DeWitt Detector in the Presence of a Gravitational Wave}{Jakub Schindler}{14}{fizyka}
@@ -175,9 +202,15 @@ title="SeMPowisko timetable"
 \harmitem{12:10--12:25}{WFAIS A-1-06}{Potential reality -- on the Aharonov-Bohm effect}{Michał Mielnicki}{152}{fizyka}
 \harmitem{12:10--12:25}{WFAIS A-1-08}{MNPs in neurotoxicity: Complex effects on microglia and brain health}{Emilia Wojtuła}{52}{biologia}
 
+~~~</div>~~~
+
 \harmitem{12:45--13:00}{WFAIS}{Zdjęcie grupowe}{}{}{}
 \harmitem{13:00--14:00}{WFAIS}{Przerwa obiadowa}{}{}{}
 \harmitem{14:00--15:00}{WFAIS A-1-06}{HYADES}{Dr Michał Drahus -- Wykład gościnny}{}{astronomia}
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
 
 \harmitem{15:00--15:10}{WFAIS A-1-06}{Design and Implementation of a Power System and Electric Motor for a Hydrogen Fuel Cell-Powered USV}{Seweryn Sawicki}{75}{inzynieria}
 \harmitem{15:00--15:20}{WFAIS A-1-08}{How do folds above faults develop?}{Szymon Mol}{24}{geografia}
@@ -190,6 +223,8 @@ title="SeMPowisko timetable"
 \harmitem{16:10--16:20}{WFAIS A-1-06}{Experimental Validation of CFD Models for Microfluidic Flow in 3D-Printed Channels}{Jakub Pietraszewski}{71}{inzynieria}
 \harmitem{16:20--16:35}{WFAIS A-1-08}{Stratospheric Aerosol Injection as climate intervention: A solution or a challenge?}{Damian Jojczyk}{155}{geografia}
 \harmitem{16:25--16:35}{WFAIS A-1-06}{Modeling in the Shades of Grey: A Comparative Analysis of White-, Black-, and Grey-box Approaches for Control Valve Identification}{Anna Wójcik}{9}{inzynieria}
+
+~~~</div>~~~
 
 \harmitem{16:40--17:00}{WFAIS}{Przerwa na kawę}{}{}{}
 \harmitem{17:00--18:30}{WFAIS}{Sesja plakatowa}{}{}{}
@@ -204,6 +239,11 @@ title="SeMPowisko timetable"
 
 \duallang{
 ~~~<ul>~~~
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{10:00--10:20}{WFAIS A-1-06}{Rashba metal to insulator transition in a non-symmorphic 2D system}{Jakub Domański}{168}{fizyka}
 \harmitem{10:00--10:15}{WFAIS A-1-08}{Large Scale Simulations of Locust Collective Motion based on Behavioral Mechanisms}{Jakub Pryc}{144}{biologia}
 \harmitem{10:25--10:40}{WFAIS A-1-06}{Excited electronic states of the helium dimer including relativistic, adiabatic, and QED effects}{Dawid Dąbrowski}{62}{fizyka}
@@ -213,8 +253,14 @@ title="SeMPowisko timetable"
 \harmitem{11:05--11:20}{WFAIS A-1-06}{Orbit-Finite-Dimensional Vector Spaces}{Łukasz Kamiński}{18}{matematyka}
 \harmitem{10:55--11:05}{WFAIS A-1-08}{Synergistic interaction between EGFR and Aurora A inhibitors in NSCLC cells and their encapsulation in liposomes to enhance therapeutic efficacy}{Adam Opala}{15}{biologia}
 
+~~~</div>~~~
+
 \harmitem{11:30--12:00}{WFAIS}{Coffee break}{}{}{}
 \harmitem{12:00--13:00}{WFAIS A-1-06}{ What the Possum Squawks About, or How to Lock Pavlov's Dog and Schrödinger's Cat in a Faraday Cage}{Prof. Konrad Szaciłowski -- Invited talk}{}{chemia}
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
 
 \harmitem{13:00--13:15}{WFAIS A-1-06}{From Lagrange to Federer - An Analytical Reconstruction of Tennis Serve}{Jakub Ukalski}{159}{fizyka}
 \harmitem{13:00--13:15}{WFAIS A-1-08}{Molecular fingerprints are strong models for peptide function prediction}{Jakub Adamczyk}{4}{biologia}
@@ -226,12 +272,19 @@ title="SeMPowisko timetable"
 \harmitem{14:00--14:15}{WFAIS A-1-08}{The delights and problems of Melanogenesis: browning, tanning- ...cancer?}{Natalia Gajewska}{105}{biologia}
 \harmitem{14:15--14:35}{WFAIS A-1-06}{Around Nyquist}{Paweł Żuczek}{86}{inzynieria}
 \harmitem{14:20--14:30}{WFAIS A-1-08}{Rewriting RNA: smarter aptamers through in silico design}{Natalia Mikołajczuk}{172}{biologia}
+
+~~~</div>~~~
 
 \harmitem{14:40--15:30}{WFAIS}{Pizza}{}{}{}
 \harmitem{15:30--16:00}{WFAIS A-1-06}{Conference ending}{}{}{}
 ~~~</ul>~~~
 }{
 ~~~<ul>~~~
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
+
 \harmitem{10:00--10:20}{WFAIS A-1-06}{Rashba metal to insulator transition in a non-symmorphic 2D system}{Jakub Domański}{168}{fizyka}
 \harmitem{10:00--10:15}{WFAIS A-1-08}{Large Scale Simulations of Locust Collective Motion based on Behavioral Mechanisms}{Jakub Pryc}{144}{biologia}
 \harmitem{10:25--10:40}{WFAIS A-1-06}{Excited electronic states of the helium dimer including relativistic, adiabatic, and QED effects}{Dawid Dąbrowski}{62}{fizyka}
@@ -241,8 +294,14 @@ title="SeMPowisko timetable"
 \harmitem{11:05--11:20}{WFAIS A-1-06}{Orbit-Finite-Dimensional Vector Spaces}{Łukasz Kamiński}{18}{matematyka}
 \harmitem{10:55--11:05}{WFAIS A-1-08}{Synergistic interaction between EGFR and Aurora A inhibitors in NSCLC cells and their encapsulation in liposomes to enhance therapeutic efficacy}{Adam Opala}{15}{biologia}
 
+~~~</div>~~~
+
 \harmitem{11:30--12:00}{WFAIS}{Przerwa na kawę}{}{}{}
 \harmitem{12:00--13:00}{WFAIS A-1-06}{What the Possum Squawks About, or How to Lock Pavlov's Dog and Schrödinger's Cat in a Faraday Cage}{Prof. Konrad Szaciłowski -- Wykład gościnny}{}{chemia}
+
+~~~<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">~~~
+
+###
 
 \harmitem{13:00--13:15}{WFAIS A-1-06}{From Lagrange to Federer - An Analytical Reconstruction of Tennis Serve}{Jakub Ukalski}{159}{fizyka}
 \harmitem{13:00--13:15}{WFAIS A-1-08}{Molecular fingerprints are strong models for peptide function prediction}{Jakub Adamczyk}{4}{biologia}
@@ -254,6 +313,8 @@ title="SeMPowisko timetable"
 \harmitem{14:00--14:15}{WFAIS A-1-08}{The delights and problems of Melanogenesis: browning, tanning- ...cancer?}{Natalia Gajewska}{105}{biologia}
 \harmitem{14:15--14:35}{WFAIS A-1-06}{Around Nyquist}{Paweł Żuczek}{86}{inzynieria}
 \harmitem{14:20--14:30}{WFAIS A-1-08}{Rewriting RNA: smarter aptamers through in silico design}{Natalia Mikołajczuk}{172}{biologia}
+
+~~~</div>~~~
 
 \harmitem{14:40--15:30}{WFAIS}{Pizza}{}{}{}
 \harmitem{15:30--16:00}{WFAIS A-1-06}{Zakończenie konferencji}{}{}{}
