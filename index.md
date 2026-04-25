@@ -6,14 +6,14 @@ tags = ["main", "home"]
 
 \duallang{
 ## Announcement: Get together 2: Tokyo Drift!
-$\int$ **Integration** $\text{d}t$ at 7.00 pm on Saturday April 25th!
+$\int$ **Integration** $\text{d}t$ at 7.30 pm on Saturday April 25th!
 
-Venue: will be announced later...
+Venue: LostBar, Szewska 20 Street, [Google Maps](https://www.google.com/maps/place/LostBar/@50.0627163,19.931626,17z/data=!3m2!4b1!5s0x47165b0e9a11f815:0x2690e4031d9d0199!4m6!3m5!1s0x47165b0e85937967:0x96356841a019caa!8m2!3d50.0627129!4d19.9342009!16s%2Fg%2F11c2y5x3wh?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D)
 }{
 ## Ogłoszenie: Integracja 2: Tokio Drift!
-$\int$ **Integracja** $\text{d}t$ o 19.00 w sobotę 25 kwietnia!
+$\int$ **Integracja** $\text{d}t$ o 19.30 w sobotę 25 kwietnia!
 
-Miejsce: jak zarezerwujemy to podamy...
+Miejsce: LostBar, ul. Szewska 20, [Google Maps](https://www.google.com/maps/place/LostBar/@50.0627163,19.931626,17z/data=!3m2!4b1!5s0x47165b0e9a11f815:0x2690e4031d9d0199!4m6!3m5!1s0x47165b0e85937967:0x96356841a019caa!8m2!3d50.0627129!4d19.9342009!16s%2Fg%2F11c2y5x3wh?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D)
 }
 
 \duallang{
