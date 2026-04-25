@@ -5,6 +5,18 @@ tags = ["main", "home"]
 +++
 
 \duallang{
+## Announcement: Get together 2: Tokyo Drift!
+$\int$ **Integration** $\text{d}t$ at 7.00 pm on Saturday April 25th!
+
+Venue: will be announced later...
+}{
+## Ogłoszenie: Integracja 2: Tokio Drift!
+$\int$ **Integracja** $\text{d}t$ o 19.00 w sobotę 25 kwietnia!
+
+Miejsce: jak zarezerwujemy to podamy...
+}
+
+\duallang{
 ## Announcement: Get together!
 $\int$ **Integration** $d\mu$ at 7.00 pm on Friday April 24th!
 
