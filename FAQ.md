@@ -61,7 +61,7 @@ title = "Q&A"
  
 * \faq{When will the book of abstracts be available?}{ At the latest, a few days before the conference begins as a PDF. There is a high possibility that it will be also given in printed form.}
 
-* \faq{When will the certificates be issued?}{ By the end of conference at the latest (or later). If necessary, we can issue individual certificates earlier (or later). In such a situation, please inform us by email at \mailsempo. All certificates will be issued in paper to save electronics. In many cases, this is also a facilitation for participants who will attach these certificates to scholarship applications, etc.}
+* \faq{When will the certificates be issued?}{ By the end of conference at the latest (or later). If necessary, we can issue individual certificates earlier (or later). In such a situation, please inform us by email at \mailsempo. All certificates will be issued in electronic version to save our poor printer. In many cases, this is also a facilitation for participants who will attach these certificates to scholarship applications, etc.}
 
 # Miscellaneous
 
@@ -130,7 +130,7 @@ title = "Q&A"
 
 * \faq{Kiedy będzie dostępna księga abstraktów?}{ Najpóźniej kilka dni przed rozpoczęciem konferencji w formacie PDF. Istnieje duża szansa, że będzie również dostępna w wersji drukowanej.}
 
-* \faq{Kiedy zostaną wydane certyfikaty?}{ Najpóźniej do końca konferencji (lub później). W razie potrzeby możemy wystawić indywidualne certyfikaty wcześniej (lub później). W takim przypadku prosimy o kontakt mailowy pod adresem \mailsempo. Wszystkie certyfikaty będą wydawane w formie papierowej, aby oszczędzać elektronikę. W wielu przypadkach jest to również ułatwienie dla uczestników, którzy dołączają certyfikaty do wniosków stypendialnych itp.}
+* \faq{Kiedy zostaną wydane certyfikaty?}{ Najpóźniej do końca konferencji (lub później). W razie potrzeby możemy wystawić indywidualne certyfikaty wcześniej (lub później). W takim przypadku prosimy o kontakt mailowy pod adresem \mailsempo. Wszystkie certyfikaty będą wydawane w formie elektronicznej, aby oszczędzać naszą biedną drukarkę. W wielu przypadkach jest to również ułatwienie dla uczestników, którzy dołączają certyfikaty do wniosków stypendialnych itp.}
 
 # Różne
 
