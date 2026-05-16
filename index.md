@@ -4,7 +4,29 @@ title = "SeMPowisko 2026"
 tags = ["main", "home"]
 +++
 
+<!-- @@content-section -->
+    @@event-descrb
+        @@event-descrb-text
 \duallang{
+# Summary of SeMPowisko 2026
+The 24th edition of the international, interdisciplinary student conference “SeMPowisko” 2026 is over! 
+
+We encourage you to view the [summary](https://sempowisko.com/page/2026/timetable/summary).
+
+}{
+# Podsumowanie SeMPowiska 2026
+
+Za nami XXIV edycja międzynarodowej, interdyscyplinarnej konferencji studenckiej "SeMPowisko" 2026! 
+
+Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026/timetable/summary).
+
+}
+        @@
+        @@fig
+\fig{/assets/group}
+        @@
+    @@
+<!-- @@ -->
 ## Announcement: Get together 2: Tokyo Drift!
 $\int$ **Integration** $\text{d}t$ at 7.30 pm on Saturday April 25th!
 
