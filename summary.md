@@ -28,7 +28,7 @@ Of course, none of this would have been possible without the finance and logisti
 Thanks to our highly dedicated photographers, we are left with beautiful photos that preserve warm memories of the event. I am very proud of the initiative, independence, and responsibility demonstrated by every member of the organising team. And to those who have not yet experienced the charm of SeMPowisko -- we warmly invite you to join us next year!
 
 
-*Dominik Piasecki*
+*Dominik Piasecki,*
 *SeMPowisko 2026 Coordinator*
 
 ### A link to a private drive containing photos from the conference will appear here.
@@ -40,7 +40,7 @@ Za nami XXIV. edycja międzynarodowej, interdyscyplinarnej konferencji studencki
 
 Były to trzy intensywne dni, wypełnione referatami, dyskusjami i budowaniem kontaktów pomiędzy dziedzinami nauk przyrodniczych i matematycznych. Liczbowo można podsumować to następująco: 130 uczestników stacjonarnych, 57 referatów, 33 postery. Na sesjach referatowych spędziliśmy w ten piękny kwietniowy weekend łącznie 10 godzin i 45 minut. Dzięki zespołowi jury złożonemu z doktorantów naszego Uniwersytetu każde wystąpienie mogło być ocenione -- najlepsze referaty i plakaty zostały nagrodzone.
 
-Jednak tak wysoka frekwencja ciągnie za sobą również pewne konsekwencje -- łącznie zjedliśmy 180 obiadów oraz 4,8 m<sup>2</sup> pizzy. Przerwy kawowe pochłonęły 20 kg ciastek oraz niezliczone kawy, których przygotowanie nasz kołowy ekspres na szczęście wytrzymał. 
+Jednak tak wysoka frekwencja ciągnie za sobą również pewne konsekwencje -- łącznie zjedliśmy 180 obiadów oraz 4,8 metrów kwadratowych pizzy. Przerwy kawowe pochłonęły 20 kg ciastek oraz niezliczone kawy, których przygotowanie nasz kołowy ekspres na szczęście wytrzymał. 
 
 Jednak najważniejszym aspektem konferencji dla mnie, jako przewodniczącego komitetu organizacyjnego, byli nasi wspaniali Organizatorzy i Wolontariusze. Zorganizowanie konferencji tej wielkości wymagało poświęcenia wielu godzin wolnego czasu. Praca rozpoczęła się już w grudniu zeszłego roku, a z organizacją na całego ruszyliśmy w styczniu. Zespół promocji na czele z Anastasiyą Yushchuk publikował posty reklamujące naszą konferencję oraz opracował szatę graficzną, widoczną w pierwszej kolejności na drukowanych wcześnie plakatach.
 
@@ -58,7 +58,7 @@ Oczywiście nic nie mogłoby się odbyć bez sekcji finansowo-logistycznej prowa
 
 Dzięki prężnie działającym fotografom po konferencji zostaliśmy z pięknymi zdjęciami, podtrzymującymi ciepłe wspomnienia. Z inicjatywy, samodzielności i odpowiedzialności wykazywanej przez każdą osobę z zespołu organizacyjnego jestem bardzo dumny. A osoby, które uroku SeMPowiska jeszcze nie znają, zapraszamy do uczestnictwa za rok!
 
-*Dominik Piasecki*
+*Dominik Piasecki,*
 *Koordynator SeMPowisko 2026*
 
 ### Tutaj znajdzie się link do prywatnego dysku ze zdjeciami z konferencji.

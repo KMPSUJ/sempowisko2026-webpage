@@ -27,6 +27,8 @@ Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026
         @@
     @@
 <!-- @@ -->
+
+\duallang{
 ## Announcement: Get together 2: Tokyo Drift!
 $\int$ **Integration** $\text{d}t$ at 7.30 pm on Saturday April 25th!
 
