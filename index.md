@@ -9,16 +9,16 @@ tags = ["main", "home"]
         @@event-descrb-text
 \duallang{
 # Summary of SeMPowisko 2026
-The 24th edition of the international, interdisciplinary student conference “SeMPowisko” 2026 is over! 
+The 24th edition of the international interdisciplinary student conference “SeMPowisko” 2026 is over! 
 
-We encourage you to view the [summary](https://sempowisko.com/page/2026/timetable/summary).
+We encourage you to view the [summary](https://sempowisko.com/page/2026/summary/).
 
 }{
 # Podsumowanie SeMPowiska 2026
 
-Za nami XXIV edycja międzynarodowej, interdyscyplinarnej konferencji studenckiej "SeMPowisko" 2026! 
+Za nami XXIV edycja międzynarodowej interdyscyplinarnej konferencji studenckiej "SeMPowisko" 2026! 
 
-Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026/timetable/summary).
+Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026/summary/).
 
 }
         @@
