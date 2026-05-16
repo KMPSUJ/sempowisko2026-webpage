@@ -19,11 +19,11 @@ Our association's IT support team, led by Mateusz Winiarski, ensured that partic
 
 The scientific quality of the presentations was overseen by a team led by Maciej Ziobro. Due to the high number of submissions and limitations in venue capacity, evaluating the abstracts proved particularly demanding. The team rose to the challenge, skillfully selecting those contributions that were better suited for a poster format.
 
-Zofia Buchman was responsible for recruiting and motivating our volunteers. Thanks to their efforts, the registration desk was always set up on time, and coffee breaks were ready for intervals between sessions.
+Zofia Buchman was responsible for recruiting and motivating our volunteers. Thanks to their efforts, the registration desk was always set up on time, and refreshments were ready for coffee breaks.
 
 This year's SeMPowisko, thanks to the work of Julia Cwenar, could boast a number of partners and patrons: the Polish Academy of Sciences Kraków Branch, the SOLARIS National Synchrotron Radiation Centre, the Institute of Nuclear Physics, and the Łukasiewicz -- Cracow Institute of Technology.
 
-Of course, none of this would have been possible without the finance and logistics team led by Krzysztof Kreiner and Jakub Ukalski. Countless essential resources necessary for the conference -- such as food and beverages, badges, books of abstracts, and many others -- were present due to their efforts. Financial support for our conference was provided by the Council of Student Scientific Circles, the "Bratniak" Foundation, and the Programme Council for Mathematical and Natural Sciences Studies, for which we are very grateful.
+Of course, none of this would have been possible without the finance and logistics team led by Krzysztof Kreiner and Jakub Ukalski. Countless essential resources -- such as food and beverages, badges, books of abstracts, and many others -- were present due to their efforts. Financial support for our conference was provided by the Council of Student Scientific Circles, the "Bratniak" Foundation, and the Programme Council for Mathematical and Natural Sciences Studies, for which we are very grateful.
 
 Thanks to our highly dedicated photographers, we are left with beautiful photos that preserve warm memories of the event. I am very proud of the initiative, independence, and responsibility demonstrated by every member of the organising team. And to those who have not yet experienced the charm of SeMPowisko -- we warmly invite you to join us next year!
 
