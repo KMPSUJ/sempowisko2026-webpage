@@ -11,9 +11,13 @@ title="SeMPowisko timetable"
 \duallang{
 ## Book of abstracts
 [download book of abstracts here](../assets/pdfs/BOA_SeMPowisko_2026.pdf)
+
+[book of abstracts, rector's scholarship version (<1 MB)](../assets/pdfs/BOA_SeMPowisko_2026_rector.pdf)
 }{
 ## Książka abstraktów
 [pobierz tutaj książkę abstraktów](../assets/pdfs/BOA_SeMPowisko_2026.pdf)
+
+[książka abstraktów, wersja do stypendium rektora (<1 MB)](../assets/pdfs/BOA_SeMPowisko_2026_rector.pdf)
 }
 
 \duallang{
