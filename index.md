@@ -11,14 +11,14 @@ tags = ["main", "home"]
 # Summary of SeMPowisko 2026
 The 24th edition of the international interdisciplinary student conference “SeMPowisko” 2026 is over! 
 
-We encourage you to view the [summary](https://sempowisko.com/page/2026/summary/) and the [photos](https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO).
+We encourage you to view the [summary](https://sempowisko.com/page/2026/summary/) and the [photos](https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO/).
 
 }{
 # Podsumowanie SeMPowiska 2026
 
 Za nami XXIV edycja międzynarodowej interdyscyplinarnej konferencji studenckiej "SeMPowisko" 2026! 
 
-Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026/summary/) i ze [zdjęciami}(https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO)].
+Zachęcamy do zapoznania się z [podsumowaniem](https://sempowisko.com/page/2026/summary/) i ze [zdjęciami](https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO/).
 
 }
         @@
