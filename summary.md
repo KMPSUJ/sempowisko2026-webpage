@@ -31,7 +31,7 @@ Thanks to our highly dedicated photographers, we are left with beautiful photos 
 *Dominik Piasecki,*
 *SeMPowisko 2026 Coordinator*
 
-### A link to a private drive containing photos from the conference will appear here.
+### [Click here to access a private drive with photos from the conference](https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO/).
 
 }{
 # Podsumowanie
@@ -61,5 +61,5 @@ Dzięki prężnie działającym fotografom po konferencji zostaliśmy z pięknym
 *Dominik Piasecki,*
 *Koordynator SeMPowisko 2026*
 
-### Tutaj znajdzie się link do prywatnego dysku ze zdjeciami z konferencji.
+### [Kliknij tutaj, aby przejść do prywatnego dysku ze zdjęciami z konferencji](https://drive.google.com/drive/folders/1YobTetU2_oblkjMCQ-KzyUffDVioXdAO/).
 }
